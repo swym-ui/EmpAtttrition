@@ -1,0 +1,501 @@
+Name,Age,Gender,Department,JobRole,MonthlyIncome,YearsAtCompany,YearsInCurrentRole,OverTime,JobSatisfaction,WorkLifeBalance,NumCompaniesWorked,Education,DistanceFromHome,BusinessTravel,TrainingTimesLastYear,TasksCompletedLastMonth,TasksCompletedNextMonth
+Allison Hill,50,Other,R&D,Developer,18394,25,12,Yes,2,1,0,1,2,Travel_Frequently,4,26,29
+Noah Rhodes,50,Female,Sales,Analyst,15071,8,8,No,4,3,7,1,23,Travel_Frequently,6,40,41
+Angie Henderson,53,Other,HR,Sales Executive,10172,15,3,No,1,4,9,5,23,Non-Travel,1,45,42
+Daniel Wagner,58,Female,HR,Sales Executive,10566,11,7,No,3,4,9,5,22,Travel_Frequently,6,20,18
+Cristian Santos,24,Other,R&D,Sales Executive,4153,29,2,Yes,2,2,2,2,16,Non-Travel,6,34,29
+Connie Lawrence,32,Male,HR,Sales Executive,7498,4,7,No,4,4,4,1,9,Travel_Frequently,3,46,50
+Abigail Shaffer,30,Other,R&D,Manager,11015,14,13,Yes,2,3,3,2,3,Non-Travel,3,32,28
+Gina Moore,53,Male,R&D,Analyst,12407,14,5,No,3,1,7,2,18,Travel_Frequently,5,45,44
+Gabrielle Davis,50,Male,Sales,Manager,14729,4,9,Yes,2,1,3,2,25,Travel_Rarely,5,38,43
+Ryan Munoz,56,Male,R&D,Manager,7310,27,11,Yes,2,3,5,3,22,Non-Travel,0,32,27
+Monica Herrera,42,Male,R&D,Analyst,11980,3,5,No,3,2,6,5,30,Travel_Frequently,5,24,29
+Jamie Arnold,58,Male,Sales,Manager,17843,13,4,Yes,2,4,5,3,20,Travel_Rarely,6,33,36
+Lisa Hensley,54,Female,R&D,Developer,18334,3,0,No,1,2,1,2,8,Travel_Frequently,3,18,19
+Michele Williams,42,Male,Sales,Developer,13760,28,5,No,4,4,3,1,20,Non-Travel,5,36,35
+Dylan Miller,46,Male,HR,Manager,17008,30,0,No,2,1,6,5,14,Travel_Rarely,6,16,11
+Brian Ramirez,53,Other,HR,Developer,9404,20,8,No,3,1,3,1,2,Non-Travel,4,44,42
+Holly Wood,37,Other,Sales,Manager,14355,14,14,Yes,4,3,0,3,23,Travel_Rarely,5,15,12
+Derek Zuniga,41,Other,HR,Sales Executive,12365,10,10,No,2,3,5,5,18,Travel_Frequently,5,17,19
+Lisa Jackson,38,Male,Sales,Manager,17434,8,6,No,2,4,0,1,18,Non-Travel,5,17,14
+Carla Gray,37,Female,Sales,Developer,16278,28,4,Yes,1,1,2,2,19,Travel_Frequently,2,15,11
+Margaret Hawkins DDS,26,Male,Sales,Developer,3361,4,3,No,4,1,9,1,11,Non-Travel,3,16,14
+Patty Perez,24,Female,HR,Analyst,15631,23,5,Yes,1,1,5,4,17,Non-Travel,5,22,24
+Ethan Adams,42,Male,Sales,Analyst,16640,2,1,No,2,3,7,4,4,Travel_Frequently,0,22,24
+Tommy Walter,44,Female,HR,Sales Executive,15725,0,2,No,4,2,2,4,2,Non-Travel,1,34,31
+Matthew Foster,34,Female,R&D,Manager,17148,14,12,No,3,3,8,3,26,Non-Travel,6,49,51
+Judy Baker,59,Female,HR,Manager,15518,1,12,No,1,3,2,1,13,Travel_Rarely,6,21,17
+Justin Baker,28,Other,HR,Manager,11983,1,2,No,3,4,2,4,14,Non-Travel,1,23,18
+Stephanie Ross,46,Other,Sales,Manager,6904,11,7,No,2,3,8,5,26,Travel_Frequently,0,21,16
+Zachary Hicks,28,Male,Sales,Manager,9626,19,10,No,4,4,6,5,10,Non-Travel,6,44,43
+Anthony Rodriguez,49,Male,Sales,Developer,12631,5,2,No,3,2,4,1,22,Non-Travel,0,33,32
+Rebecca Henderson,27,Male,R&D,Manager,11690,26,0,Yes,2,3,9,5,30,Travel_Frequently,6,36,39
+James Ferrell,42,Other,HR,Sales Executive,9949,26,2,No,1,1,2,2,4,Travel_Frequently,6,39,37
+Tricia Valencia,51,Female,R&D,Analyst,5489,12,14,Yes,2,3,2,1,25,Non-Travel,5,44,47
+Nathan Maldonado,27,Male,R&D,Sales Executive,3507,1,8,Yes,4,3,7,2,13,Travel_Rarely,3,15,19
+Debra Davidson,49,Other,HR,Manager,12620,7,6,No,2,1,3,1,12,Travel_Rarely,1,19,14
+Jeffrey Chavez,44,Male,HR,Manager,3996,5,13,Yes,3,2,1,5,24,Non-Travel,0,48,45
+Sherri Baker,35,Other,Sales,Developer,11979,8,14,No,3,4,1,3,28,Non-Travel,3,37,35
+Cassandra Gaines,33,Male,R&D,Sales Executive,10319,0,7,Yes,4,3,4,5,27,Non-Travel,2,33,32
+Elizabeth Fowler,42,Other,Sales,Sales Executive,8515,5,7,No,3,1,0,5,30,Travel_Rarely,0,23,23
+Brittany Farmer,35,Male,R&D,Manager,12502,11,4,No,3,2,6,1,18,Travel_Rarely,1,47,46
+Paula Moreno,40,Other,HR,Manager,6390,29,4,Yes,4,2,8,2,25,Travel_Frequently,4,48,52
+Fred Smith,57,Other,Sales,Analyst,15174,29,4,No,4,1,6,1,16,Non-Travel,5,47,50
+Sherry Decker,27,Other,R&D,Manager,10478,15,13,No,4,4,5,2,28,Travel_Rarely,1,32,29
+Anthony Humphrey,52,Other,R&D,Analyst,18985,0,13,No,1,2,7,4,20,Travel_Frequently,0,27,32
+Angelica Tucker,33,Other,R&D,Developer,16034,12,9,Yes,1,2,7,3,4,Non-Travel,0,27,30
+Philip Cannon,32,Male,R&D,Sales Executive,6860,12,2,No,2,3,8,1,5,Travel_Frequently,0,37,38
+John Pierce,48,Other,R&D,Sales Executive,18640,25,14,No,2,2,0,4,13,Travel_Rarely,2,44,46
+Shane Henderson,41,Other,Sales,Analyst,10920,29,11,No,3,4,8,3,7,Travel_Frequently,0,31,33
+Joshua Blair,39,Female,Sales,Manager,19310,9,13,No,3,1,3,4,16,Travel_Rarely,0,32,30
+Eric Carney,25,Male,HR,Sales Executive,5411,28,14,Yes,3,1,0,1,2,Non-Travel,4,43,45
+Jessica Holmes,42,Female,HR,Sales Executive,18786,20,6,Yes,4,2,7,3,15,Travel_Rarely,1,18,13
+Danny Morgan,52,Female,Sales,Developer,18997,21,12,No,1,2,0,1,30,Non-Travel,0,28,27
+Crystal Robinson,46,Female,HR,Developer,12829,11,11,No,1,2,2,1,2,Non-Travel,2,18,17
+Mark Perez,45,Male,R&D,Manager,5534,0,10,Yes,4,1,0,5,13,Travel_Frequently,3,39,44
+Shannon Jones,48,Male,HR,Sales Executive,12405,26,1,Yes,4,1,0,5,4,Travel_Frequently,2,25,21
+Michael Lewis,53,Female,Sales,Manager,6591,0,9,Yes,3,4,1,5,7,Travel_Frequently,4,20,24
+Timothy Duncan,22,Male,R&D,Manager,19571,10,7,Yes,2,4,0,3,3,Travel_Frequently,1,39,39
+Richard Aguirre,54,Male,R&D,Analyst,3886,0,11,Yes,3,1,3,5,7,Travel_Rarely,6,21,23
+Brent Jordan,44,Male,HR,Sales Executive,17409,1,3,No,2,2,1,2,8,Non-Travel,1,32,30
+John Daniel,33,Male,R&D,Manager,10484,10,8,Yes,1,3,9,4,28,Travel_Rarely,6,46,43
+Victoria Garcia,32,Other,R&D,Developer,11542,19,0,No,2,4,2,2,2,Non-Travel,2,30,34
+Gerald Hensley,49,Male,HR,Manager,5251,5,1,Yes,1,2,1,1,9,Travel_Rarely,6,21,22
+Connor West,55,Male,R&D,Manager,6938,14,13,Yes,4,1,8,4,16,Travel_Frequently,5,49,52
+Donald Wright,43,Female,HR,Manager,14766,24,7,Yes,2,2,4,1,24,Travel_Rarely,5,40,42
+Jessica Callahan,37,Male,HR,Manager,16271,8,2,No,1,1,3,5,9,Travel_Frequently,5,15,12
+Amber Kidd,24,Female,R&D,Sales Executive,13536,0,12,Yes,3,2,0,5,26,Travel_Rarely,3,26,26
+Tracy House,40,Female,Sales,Analyst,3968,13,5,Yes,2,2,1,3,24,Travel_Rarely,4,25,26
+Carol Tucker,34,Male,R&D,Manager,13458,28,13,No,1,2,7,2,30,Travel_Frequently,3,27,25
+James Brown,40,Male,Sales,Manager,18467,15,0,No,2,3,4,1,23,Travel_Rarely,3,49,45
+William Baker,46,Female,R&D,Analyst,5579,11,8,No,2,1,7,2,19,Travel_Rarely,3,20,20
+Jordan Henderson,30,Male,HR,Analyst,10175,28,14,Yes,1,2,5,3,14,Travel_Frequently,4,39,44
+Whitney Peters,25,Other,R&D,Sales Executive,12236,4,7,Yes,3,4,3,1,14,Travel_Frequently,5,33,37
+Brittney Phillips,51,Female,Sales,Manager,12109,8,14,No,3,1,1,1,4,Non-Travel,2,15,12
+Lauren Daniels,49,Other,HR,Developer,4260,16,1,Yes,4,1,4,3,11,Non-Travel,3,27,28
+Amy Silva,32,Male,Sales,Manager,15423,7,1,No,2,1,0,4,28,Non-Travel,5,33,32
+Sarah Moore,39,Male,HR,Analyst,3695,26,8,No,2,2,8,2,19,Non-Travel,3,26,24
+Angela Lopez,26,Female,Sales,Developer,15406,2,14,Yes,2,2,2,1,3,Travel_Frequently,0,31,31
+Megan Young,37,Female,HR,Manager,16448,11,6,No,3,4,1,4,8,Non-Travel,3,30,26
+Steve Sanchez,46,Male,Sales,Manager,10823,28,7,Yes,2,3,5,3,16,Travel_Rarely,2,43,40
+Lisa Barnes,30,Female,HR,Manager,7768,9,6,No,4,1,2,5,5,Non-Travel,3,38,38
+Kelly Donovan,24,Female,R&D,Developer,4905,20,3,Yes,2,3,0,3,1,Travel_Frequently,1,17,19
+Mike Allen,58,Male,HR,Manager,13189,22,6,Yes,3,3,6,4,16,Travel_Frequently,3,25,25
+Michael Evans,29,Other,R&D,Sales Executive,3881,30,7,No,3,3,0,4,8,Travel_Rarely,1,36,39
+Paul Jones,36,Other,R&D,Developer,7921,9,3,No,1,4,6,5,23,Travel_Frequently,5,29,32
+Zachary Ferrell,25,Other,HR,Sales Executive,18537,26,8,Yes,1,3,1,2,5,Travel_Rarely,1,25,26
+Daniel Baker,53,Other,HR,Developer,19080,23,4,No,2,3,9,1,10,Travel_Rarely,5,28,26
+Shirley Suarez,40,Male,HR,Analyst,11000,23,12,No,3,3,2,3,3,Non-Travel,5,43,42
+Christopher Bass,56,Female,Sales,Manager,14638,9,7,Yes,1,2,8,1,4,Non-Travel,4,47,46
+Lisa Archer,58,Other,Sales,Analyst,5912,15,6,Yes,1,4,5,2,9,Travel_Rarely,4,29,33
+Aimee Montoya,26,Other,HR,Manager,10977,11,9,No,3,2,5,5,2,Travel_Frequently,2,31,30
+Matthew Mcmillan,31,Other,Sales,Developer,13053,6,0,Yes,4,4,3,1,24,Travel_Frequently,1,18,20
+Brian Rodriguez,37,Female,R&D,Developer,6612,6,2,No,1,4,7,3,4,Travel_Rarely,1,26,27
+Denise Jacobs,45,Other,R&D,Analyst,3383,19,9,No,3,3,0,5,30,Travel_Frequently,4,17,15
+Christina Walters,51,Female,Sales,Manager,10173,3,4,No,4,4,4,2,19,Travel_Rarely,3,19,19
+John Whitehead,23,Female,R&D,Manager,13222,21,13,No,4,3,7,2,29,Travel_Frequently,3,41,37
+Anna Henderson,54,Male,HR,Manager,13356,7,3,Yes,1,4,7,3,26,Travel_Frequently,6,21,25
+Aaron Wise,39,Female,Sales,Manager,8481,6,14,Yes,3,4,8,4,7,Non-Travel,3,36,31
+Deborah Figueroa,47,Female,R&D,Developer,16512,24,10,Yes,2,3,9,1,25,Travel_Rarely,4,41,37
+Jessica Smith,41,Male,R&D,Sales Executive,10681,21,2,No,2,4,5,4,12,Travel_Rarely,0,30,28
+Stephen Mckee,57,Male,Sales,Manager,3266,26,8,No,1,2,4,4,16,Non-Travel,6,25,29
+Sandra Aguilar,36,Female,R&D,Developer,16586,14,11,Yes,1,2,0,2,21,Non-Travel,5,37,39
+Cameron Parker,49,Female,Sales,Manager,5931,19,8,Yes,1,4,2,3,30,Travel_Frequently,5,40,44
+Rebecca Valencia,46,Other,HR,Analyst,5797,2,12,Yes,2,3,3,5,25,Travel_Frequently,3,35,35
+Christine Wright,59,Other,HR,Sales Executive,6045,26,13,Yes,3,4,6,4,16,Travel_Rarely,1,28,32
+Richard Henson,28,Other,Sales,Developer,8254,9,6,No,2,3,2,3,22,Travel_Rarely,2,48,46
+Marc Moore,35,Female,HR,Analyst,16843,1,12,No,1,2,3,2,23,Travel_Frequently,0,29,25
+Sharon Cherry,29,Other,R&D,Sales Executive,12977,5,4,Yes,2,3,5,3,27,Travel_Rarely,5,44,47
+Sierra Johnson,36,Male,R&D,Sales Executive,11405,24,10,No,1,1,5,1,26,Travel_Rarely,0,33,37
+Evelyn Galvan,51,Female,HR,Analyst,16661,5,7,Yes,1,2,0,1,13,Travel_Frequently,4,33,37
+Sharon Cochran,37,Female,R&D,Manager,11852,10,1,No,3,2,1,1,1,Travel_Frequently,3,41,38
+Richard Rodriguez,26,Other,Sales,Sales Executive,16428,0,12,Yes,3,1,3,5,7,Non-Travel,1,32,33
+Shannon Walker,30,Other,R&D,Manager,12509,7,7,Yes,2,1,7,1,6,Travel_Rarely,5,19,24
+Julia Torres,53,Other,Sales,Sales Executive,3766,6,14,Yes,2,3,0,2,17,Travel_Frequently,6,17,18
+Crystal Johnson,22,Female,HR,Sales Executive,6345,1,13,Yes,4,2,7,1,30,Non-Travel,6,49,48
+Garrett Lin,25,Other,HR,Developer,11363,24,8,Yes,4,3,1,5,27,Travel_Rarely,6,32,29
+Diana May,46,Male,Sales,Manager,5237,18,13,No,3,4,5,1,19,Travel_Frequently,4,41,45
+William Herrera,26,Male,Sales,Analyst,3807,11,10,No,1,4,0,1,13,Travel_Rarely,0,42,41
+Ashley Waller,30,Male,R&D,Developer,7174,29,13,No,1,1,6,5,3,Travel_Rarely,6,38,37
+Victor Baker,51,Other,R&D,Analyst,11422,19,2,Yes,4,4,0,4,15,Travel_Frequently,3,21,18
+Jeffrey Chandler,57,Male,HR,Developer,12638,22,3,No,4,4,0,3,26,Travel_Rarely,2,36,41
+Larry Dixon,38,Other,Sales,Analyst,15077,17,1,No,1,4,1,2,10,Travel_Frequently,6,28,29
+Kenneth Scott,23,Other,Sales,Analyst,11517,18,8,No,2,4,9,1,13,Travel_Frequently,0,37,41
+April Frost,27,Female,Sales,Sales Executive,17594,26,14,No,1,1,1,3,18,Non-Travel,1,23,19
+Michelle Harmon,56,Other,R&D,Manager,5087,27,8,Yes,3,2,7,5,24,Travel_Frequently,1,16,16
+Helen Jones,37,Female,HR,Analyst,5110,0,10,Yes,4,4,1,4,22,Travel_Rarely,1,42,44
+Erin Edwards,55,Male,R&D,Analyst,8454,13,3,No,3,1,5,4,21,Travel_Frequently,5,20,15
+Michelle Evans,48,Female,Sales,Developer,12254,1,4,No,2,1,3,5,4,Travel_Frequently,0,41,36
+Jason Powell,24,Female,Sales,Sales Executive,14840,13,0,Yes,3,1,8,1,27,Travel_Frequently,2,22,22
+Cameron Fisher,54,Male,HR,Analyst,5756,20,11,Yes,2,3,8,1,28,Non-Travel,2,27,24
+Megan Orr,50,Female,HR,Sales Executive,3341,5,10,No,1,4,7,3,19,Non-Travel,6,36,34
+Elizabeth Kelley,50,Male,HR,Manager,11070,11,8,Yes,2,3,0,3,25,Non-Travel,6,46,44
+Dustin Jordan,33,Male,R&D,Sales Executive,9526,15,11,No,4,2,0,5,18,Non-Travel,0,25,22
+Mary Marshall,28,Other,HR,Manager,17693,28,7,Yes,4,2,0,5,2,Travel_Rarely,6,25,20
+Daniel Kennedy,53,Male,Sales,Manager,4495,30,3,Yes,3,4,9,4,17,Travel_Frequently,3,38,36
+Rebecca Jackson,39,Male,R&D,Sales Executive,19559,29,8,No,3,3,7,2,15,Travel_Rarely,2,15,18
+Jose Schultz,30,Other,Sales,Analyst,10684,28,8,Yes,3,4,5,3,23,Travel_Frequently,0,27,30
+Robert Potter,38,Male,HR,Analyst,19562,10,8,Yes,3,3,7,3,27,Non-Travel,6,44,42
+Courtney Gonzalez,50,Male,Sales,Developer,13937,25,8,No,3,2,4,5,28,Non-Travel,3,27,28
+David Alvarez,50,Other,R&D,Analyst,19237,20,8,Yes,1,1,9,4,10,Travel_Frequently,2,49,53
+Angel Perry,37,Male,Sales,Manager,6662,3,14,Yes,2,2,4,5,29,Non-Travel,3,28,30
+Cheyenne Horton,53,Male,Sales,Analyst,3282,23,10,Yes,2,2,7,3,12,Travel_Frequently,6,44,45
+David Douglas Jr.,24,Other,R&D,Analyst,14492,14,2,No,1,4,9,3,22,Travel_Rarely,1,39,41
+Patricia Rodriguez,32,Other,HR,Sales Executive,10299,21,14,No,2,3,8,4,30,Travel_Frequently,1,49,45
+Christopher Rubio,48,Male,Sales,Analyst,4522,5,11,Yes,1,4,8,1,18,Travel_Rarely,0,48,49
+Amber Wright,32,Male,R&D,Manager,18141,15,14,Yes,3,1,7,5,22,Travel_Frequently,4,18,16
+Joyce Solis,29,Female,HR,Analyst,10220,5,0,Yes,4,4,7,3,15,Non-Travel,2,27,22
+Victoria Larson,35,Male,R&D,Manager,13085,3,5,No,2,4,4,1,4,Non-Travel,2,32,33
+Stephanie Salazar,37,Female,Sales,Analyst,14333,29,0,No,3,1,6,4,16,Travel_Rarely,1,31,31
+Kathy Rivas,58,Female,R&D,Sales Executive,13310,18,4,Yes,4,2,4,3,11,Travel_Rarely,3,32,28
+Stephanie Manning,22,Other,Sales,Developer,19689,20,6,No,4,2,9,3,24,Travel_Rarely,2,31,32
+David Wright,43,Female,HR,Sales Executive,16919,24,4,No,1,4,1,1,13,Non-Travel,2,21,17
+Pamela Boyd,22,Female,R&D,Developer,19078,12,12,No,3,4,4,1,2,Travel_Rarely,0,37,41
+Denise Jones,56,Other,Sales,Manager,18337,5,11,No,1,3,7,4,25,Travel_Frequently,3,30,25
+Devon Flores,24,Other,Sales,Manager,11691,14,3,Yes,3,4,4,5,11,Non-Travel,6,40,43
+Brenda Hall,54,Other,Sales,Analyst,16755,17,12,Yes,4,3,8,4,30,Non-Travel,2,34,34
+Michelle Brown,26,Other,R&D,Analyst,13915,16,11,No,4,3,1,3,2,Travel_Rarely,4,31,28
+Joshua Perry,29,Other,HR,Analyst,16569,4,12,Yes,4,1,2,5,11,Non-Travel,3,22,17
+Jason Stein,52,Other,R&D,Analyst,19142,27,0,Yes,1,2,1,2,17,Non-Travel,4,41,37
+Melissa Gates,44,Male,HR,Manager,19756,11,3,Yes,1,1,0,1,5,Travel_Frequently,5,41,37
+Jamie Smith,27,Male,Sales,Developer,5585,12,10,No,4,3,8,2,25,Travel_Frequently,4,43,39
+Paul Castaneda,31,Female,R&D,Analyst,14292,4,3,No,1,2,4,2,13,Travel_Frequently,1,40,45
+Jennifer Adkins,54,Other,HR,Developer,12151,16,1,No,3,3,7,3,6,Non-Travel,6,25,21
+Lindsey Walker,36,Male,HR,Manager,18633,2,0,Yes,1,2,7,1,15,Non-Travel,4,29,33
+Jeffrey Johnson,51,Male,Sales,Sales Executive,17199,9,13,Yes,2,4,2,5,11,Travel_Frequently,6,31,29
+Michael Powell,29,Male,HR,Developer,9913,27,4,Yes,2,4,2,2,30,Travel_Rarely,2,38,35
+John Anderson,35,Female,Sales,Analyst,7386,27,5,Yes,1,4,6,1,20,Travel_Frequently,3,40,42
+Alyssa Long,40,Female,HR,Developer,11010,21,12,No,1,3,1,4,3,Travel_Rarely,6,25,25
+Alyssa Day,56,Male,R&D,Developer,11465,24,2,No,1,1,9,1,13,Non-Travel,4,41,38
+Joel Williams,44,Male,R&D,Sales Executive,9317,14,3,No,2,4,8,3,23,Travel_Frequently,6,46,51
+Daniel Murphy,24,Male,HR,Sales Executive,15881,2,2,Yes,2,2,5,5,13,Travel_Rarely,2,31,35
+Jamie Walton,51,Male,Sales,Sales Executive,18663,4,11,Yes,3,2,5,2,6,Non-Travel,5,22,27
+Darlene Miller,23,Female,Sales,Manager,19901,23,2,No,1,3,8,4,20,Travel_Frequently,0,43,40
+Joshua Cooke,31,Female,HR,Analyst,13476,22,12,Yes,3,2,0,2,14,Non-Travel,5,23,28
+Matthew Harrington,42,Other,Sales,Developer,3202,21,3,Yes,4,3,4,2,8,Travel_Rarely,6,15,11
+Nicole Herring,56,Female,R&D,Manager,15872,11,4,No,2,3,2,3,17,Travel_Frequently,3,31,31
+Alex Hernandez,30,Female,Sales,Analyst,12442,25,14,Yes,2,2,1,1,29,Travel_Rarely,1,16,11
+Michael Elliott,50,Female,Sales,Manager,13012,30,4,Yes,3,1,1,3,1,Non-Travel,6,28,24
+Michael Wang,35,Male,HR,Sales Executive,3595,24,6,Yes,4,1,2,2,21,Travel_Rarely,6,38,34
+Lawrence Adkins,34,Female,R&D,Sales Executive,12975,2,6,Yes,1,1,4,2,1,Non-Travel,0,33,35
+Robert Oconnell,48,Male,Sales,Analyst,16967,27,8,No,3,2,6,1,28,Travel_Rarely,4,36,39
+Alexander Collins,51,Other,R&D,Developer,12712,26,8,No,3,1,9,3,7,Non-Travel,4,36,38
+Tina Sanders,47,Other,R&D,Sales Executive,13133,3,7,No,2,3,5,1,30,Travel_Frequently,3,37,41
+Angela Vaughn,40,Female,Sales,Analyst,8223,25,8,No,1,2,4,2,23,Non-Travel,1,36,34
+Ashley Barton,58,Other,R&D,Manager,14684,19,14,No,3,3,4,3,19,Travel_Rarely,5,24,19
+Lindsay Martinez,58,Other,R&D,Analyst,5917,10,12,Yes,2,1,7,1,24,Travel_Rarely,5,39,43
+Dr. Hannah Patterson,57,Female,R&D,Sales Executive,3072,24,9,Yes,3,4,8,2,7,Travel_Rarely,2,21,24
+Jonathan Peterson,34,Other,Sales,Developer,16811,17,2,No,3,1,1,2,19,Travel_Frequently,1,38,43
+Samantha Garcia,42,Other,HR,Sales Executive,5724,13,13,Yes,1,1,5,1,11,Travel_Rarely,5,34,37
+Madison Poole,53,Male,R&D,Manager,17151,0,14,Yes,4,4,9,5,28,Non-Travel,6,37,34
+Jessica Gross,27,Male,R&D,Developer,18486,25,11,No,1,1,7,2,18,Non-Travel,6,43,41
+Debra Morton,25,Male,HR,Analyst,15976,14,10,No,3,3,2,4,2,Travel_Rarely,1,36,31
+Karen Graham,31,Female,R&D,Manager,19286,16,7,Yes,2,3,2,3,28,Travel_Frequently,2,40,45
+Debra Christian,39,Male,Sales,Developer,18052,19,0,No,3,2,7,2,25,Travel_Rarely,1,21,25
+Angelica Keith,36,Other,R&D,Developer,16448,5,9,No,3,2,8,2,26,Travel_Rarely,3,31,35
+John Bishop,57,Male,R&D,Manager,16627,20,2,No,2,1,9,1,1,Travel_Rarely,6,44,45
+Allen Rosales,52,Male,R&D,Manager,6479,30,7,No,1,3,7,2,14,Non-Travel,3,16,15
+Daniel Salinas,43,Male,HR,Analyst,13217,16,9,Yes,4,1,5,4,6,Travel_Rarely,2,17,21
+Spencer Haynes,37,Other,Sales,Manager,13249,30,10,Yes,3,3,8,2,5,Travel_Frequently,0,17,20
+Adam Vaughan,37,Other,HR,Developer,10055,2,13,No,3,1,0,2,22,Travel_Rarely,5,49,46
+Nathan Freeman,42,Other,Sales,Developer,13055,0,0,Yes,4,3,0,5,19,Non-Travel,6,17,20
+Melissa Brewer,25,Male,Sales,Manager,3642,24,11,No,2,3,2,5,17,Travel_Rarely,5,28,24
+Ricky Davis II,33,Male,HR,Sales Executive,11603,3,1,Yes,1,1,7,2,10,Non-Travel,1,49,48
+Elizabeth Perkins,39,Female,R&D,Analyst,7360,11,7,Yes,3,4,7,1,9,Travel_Rarely,3,16,19
+Joseph Coleman,53,Female,R&D,Developer,14686,12,13,No,1,2,4,4,13,Non-Travel,0,20,25
+Erin Warner,41,Male,HR,Developer,7433,18,4,No,3,2,2,3,7,Non-Travel,4,15,15
+David Martinez,59,Female,R&D,Sales Executive,18728,29,13,No,3,2,4,1,17,Non-Travel,5,42,43
+Bryan Herrera,49,Female,Sales,Developer,12333,28,11,No,3,1,3,3,17,Non-Travel,3,27,26
+Cathy Robinson,43,Female,R&D,Analyst,3682,23,9,No,1,4,0,1,26,Travel_Frequently,4,44,48
+Dr. William Warren,37,Other,R&D,Analyst,18573,28,9,Yes,3,2,3,2,15,Travel_Frequently,3,25,28
+Brian Lee,46,Other,R&D,Analyst,11175,20,6,No,1,1,2,2,16,Travel_Rarely,6,32,33
+Christopher Smith,35,Male,R&D,Sales Executive,19251,21,8,No,1,1,8,1,1,Travel_Frequently,0,46,47
+Denise Mccann,43,Female,HR,Analyst,8076,30,2,Yes,2,2,5,5,30,Travel_Frequently,6,44,48
+Melissa Martinez,37,Female,Sales,Analyst,12471,9,9,Yes,1,1,0,1,27,Travel_Frequently,5,18,23
+Katherine Salas,56,Female,Sales,Developer,11755,24,2,Yes,4,4,2,4,11,Travel_Rarely,4,42,37
+Julie Alexander,59,Male,HR,Manager,3273,8,6,Yes,3,2,1,2,7,Travel_Frequently,3,36,38
+Anthony Everett,52,Other,HR,Developer,12476,21,12,Yes,2,1,2,4,1,Non-Travel,6,18,19
+Rodney Morales,48,Female,Sales,Developer,13856,8,1,Yes,3,4,7,1,23,Non-Travel,0,24,27
+Mark Brown,28,Male,Sales,Sales Executive,4529,17,6,No,1,3,7,2,13,Travel_Frequently,4,40,43
+Justin Torres,38,Other,HR,Developer,14120,6,7,No,1,3,7,2,25,Travel_Frequently,6,44,45
+Bailey Duran DDS,31,Female,HR,Sales Executive,11951,26,7,No,1,1,9,2,12,Travel_Frequently,2,41,40
+Courtney Mills,41,Other,R&D,Developer,6160,26,13,No,1,3,1,4,13,Travel_Rarely,2,26,26
+Jeremy Dalton,45,Female,Sales,Manager,7086,6,2,No,4,3,5,5,20,Travel_Rarely,5,43,46
+Elizabeth Oliver DDS,33,Other,R&D,Developer,4484,1,9,No,3,2,5,3,19,Non-Travel,4,39,42
+Theresa Clark,23,Other,R&D,Developer,10635,20,7,Yes,4,1,1,5,24,Travel_Frequently,4,40,35
+Matthew Moore,58,Other,R&D,Analyst,19585,20,13,No,4,4,3,5,6,Non-Travel,1,17,16
+Benjamin Smith,29,Other,HR,Analyst,3294,22,13,Yes,3,2,6,3,22,Non-Travel,3,33,38
+Kirk Carter,52,Male,HR,Manager,15792,21,5,No,1,1,8,5,29,Travel_Frequently,3,20,17
+Michael Warner,32,Male,Sales,Analyst,15679,6,10,No,1,3,6,2,28,Travel_Frequently,0,46,45
+Michael Bradshaw,23,Male,Sales,Analyst,19903,28,12,Yes,2,3,1,2,21,Non-Travel,3,18,23
+Lori Guerrero,56,Other,HR,Manager,11179,0,6,Yes,3,1,0,5,22,Travel_Rarely,2,27,28
+Jessica Stephens,57,Other,HR,Manager,18994,12,5,Yes,4,1,6,1,25,Travel_Rarely,0,45,50
+Susan Serrano,23,Other,R&D,Sales Executive,17323,6,7,No,2,2,5,2,29,Travel_Frequently,2,37,41
+Christopher Parker,22,Female,Sales,Developer,6491,11,13,Yes,1,4,9,4,7,Travel_Rarely,1,23,24
+Laura Roberts,51,Other,R&D,Analyst,11359,4,6,Yes,2,3,7,2,3,Non-Travel,5,42,45
+Michael Lyons,27,Other,HR,Sales Executive,11498,30,8,No,1,1,7,1,28,Travel_Frequently,6,19,17
+Kathryn Snyder,22,Other,Sales,Sales Executive,7167,29,3,No,4,3,6,5,25,Travel_Rarely,4,41,39
+Andrew Reynolds,48,Female,HR,Developer,12907,24,8,No,2,2,6,2,20,Non-Travel,0,48,48
+David Davis,40,Female,Sales,Sales Executive,14857,13,4,Yes,4,3,0,5,14,Travel_Rarely,4,24,22
+Sara Johnston,45,Male,HR,Sales Executive,10025,11,7,Yes,3,4,0,3,30,Travel_Frequently,2,21,16
+Yvonne Chambers,29,Male,Sales,Sales Executive,17469,6,5,No,1,2,8,5,25,Travel_Rarely,2,48,49
+Andrew Avila,58,Other,Sales,Sales Executive,16220,18,8,No,4,4,8,4,7,Travel_Rarely,4,30,25
+Matthew Moon,42,Other,HR,Analyst,10044,29,14,Yes,3,1,5,2,22,Travel_Rarely,0,21,20
+Kevin Walters,26,Female,HR,Developer,14179,10,11,No,1,1,0,3,23,Non-Travel,2,42,40
+Brandon Bailey MD,57,Female,Sales,Sales Executive,18321,2,14,Yes,2,4,1,4,22,Travel_Frequently,4,24,26
+Shannon Rivera,28,Male,Sales,Analyst,18361,2,9,No,2,3,9,4,25,Travel_Rarely,2,43,40
+Donna Landry,25,Male,Sales,Manager,9818,11,2,Yes,2,2,9,4,19,Travel_Rarely,0,28,24
+Krista Gibson,34,Other,Sales,Developer,7388,2,2,Yes,4,3,6,4,18,Travel_Rarely,5,38,40
+Frank Cordova,59,Other,R&D,Analyst,19046,21,4,Yes,3,3,4,1,3,Travel_Frequently,0,23,26
+Jose Travis,42,Other,Sales,Sales Executive,3587,2,14,Yes,3,4,4,4,28,Non-Travel,4,41,43
+Kimberly Gutierrez,49,Male,HR,Developer,18551,29,8,No,4,4,5,1,29,Travel_Rarely,6,26,26
+Isaiah Avila,35,Male,R&D,Developer,14823,27,6,Yes,4,4,1,1,25,Non-Travel,3,15,20
+Olivia Harris,36,Other,HR,Sales Executive,18179,15,13,Yes,4,2,2,3,19,Non-Travel,2,42,37
+Tanya Kim,30,Female,HR,Manager,19100,8,3,Yes,2,1,6,4,5,Travel_Frequently,5,16,13
+Barbara Dudley,32,Male,HR,Developer,12055,19,1,No,4,1,7,3,15,Travel_Frequently,2,31,29
+Cynthia Moore,50,Female,R&D,Sales Executive,6525,24,3,No,4,3,1,1,13,Travel_Rarely,4,32,37
+Kristen Davis,57,Male,HR,Sales Executive,17077,26,9,Yes,2,4,3,5,7,Non-Travel,5,18,20
+Susan Murray MD,48,Other,Sales,Analyst,8035,3,3,No,4,4,8,5,5,Travel_Rarely,1,18,19
+Kathleen Moran,27,Female,R&D,Analyst,11788,3,7,No,4,2,8,2,13,Non-Travel,6,32,28
+Denise Davenport,54,Male,HR,Developer,3819,30,8,Yes,1,1,7,1,12,Travel_Frequently,4,46,41
+Mrs. Kristen Reyes,43,Other,HR,Sales Executive,17961,1,4,Yes,3,2,5,2,24,Travel_Frequently,1,26,24
+Katie Suarez,48,Male,HR,Analyst,6354,29,9,Yes,4,2,4,4,10,Travel_Frequently,0,18,21
+Desiree Tyler,27,Female,R&D,Developer,8008,28,7,No,2,1,6,5,27,Travel_Rarely,1,44,44
+Timothy Romero,25,Other,Sales,Sales Executive,18760,28,14,No,4,4,1,1,2,Travel_Frequently,6,46,50
+Diane Evans,56,Female,HR,Analyst,19564,13,1,Yes,2,3,8,2,4,Non-Travel,6,48,46
+Yvonne Burns,29,Male,HR,Analyst,15777,24,0,Yes,2,1,5,1,3,Travel_Rarely,2,36,31
+Joshua Reed,35,Other,Sales,Manager,9491,26,13,No,3,2,8,1,25,Travel_Frequently,1,31,34
+Kimberly Gibson,35,Female,Sales,Sales Executive,8549,15,7,Yes,3,1,3,1,11,Non-Travel,6,36,40
+Colin Terry,40,Other,Sales,Sales Executive,4343,5,0,Yes,4,1,0,1,20,Travel_Frequently,5,26,26
+Cynthia Rowe,37,Other,R&D,Manager,7861,21,4,Yes,1,1,8,1,12,Travel_Rarely,4,41,36
+Patrick Thornton,29,Female,R&D,Sales Executive,12412,19,11,Yes,3,4,0,1,9,Non-Travel,4,42,38
+Jasmin Alvarado,30,Other,HR,Sales Executive,17283,25,6,Yes,4,2,5,3,5,Travel_Rarely,6,30,35
+Veronica Simpson,56,Other,R&D,Developer,19020,24,7,No,3,4,6,5,21,Travel_Rarely,2,36,34
+Jonathan Lawrence,36,Female,R&D,Manager,4104,14,13,No,1,2,4,4,7,Travel_Rarely,5,32,28
+Shelly Alexander,50,Female,Sales,Analyst,4043,22,4,No,1,4,0,1,10,Travel_Rarely,0,24,26
+Joyce Bowen,59,Other,HR,Analyst,5462,16,7,Yes,3,1,7,1,24,Travel_Rarely,5,41,46
+Matthew Moore,35,Female,HR,Analyst,16716,4,6,Yes,4,3,5,5,8,Travel_Frequently,1,33,32
+Wayne Morgan,58,Male,Sales,Sales Executive,9598,27,4,Yes,1,1,4,4,1,Travel_Frequently,6,43,48
+Marie Christian,26,Male,HR,Analyst,8875,16,8,No,4,4,1,4,25,Non-Travel,6,39,40
+Shannon James,59,Male,Sales,Developer,5616,18,5,Yes,2,3,0,3,22,Travel_Frequently,1,47,48
+Nathan Malone,22,Other,Sales,Developer,8746,30,5,No,3,4,4,5,30,Non-Travel,6,34,29
+Amanda Jones,26,Other,HR,Analyst,9948,20,12,Yes,4,2,3,5,15,Travel_Frequently,2,40,36
+Tammie Bright,58,Female,R&D,Analyst,7994,29,10,Yes,3,3,5,2,4,Travel_Rarely,1,48,53
+Jessica Garcia,30,Female,R&D,Sales Executive,9471,20,8,No,4,4,3,5,2,Non-Travel,4,23,28
+Shelia Wallace,37,Male,HR,Manager,9083,10,1,Yes,1,4,5,2,21,Non-Travel,6,32,37
+Stephanie Williams,44,Male,R&D,Sales Executive,15953,10,14,No,1,2,2,1,7,Travel_Rarely,6,28,33
+Elaine Brooks,49,Female,HR,Manager,11230,16,12,Yes,1,1,3,2,9,Travel_Frequently,3,42,41
+Joseph Knight,36,Female,Sales,Analyst,7697,2,2,No,4,4,5,2,1,Travel_Frequently,6,37,32
+Carolyn Miller,46,Other,Sales,Manager,16820,30,7,Yes,3,2,5,5,15,Travel_Frequently,0,33,35
+Lisa Allen,59,Other,R&D,Sales Executive,5076,24,6,No,1,3,9,4,22,Non-Travel,5,45,45
+Briana Murray,32,Male,HR,Analyst,3640,14,2,Yes,4,3,6,2,23,Non-Travel,5,39,42
+David Smith,54,Male,Sales,Analyst,5006,30,14,No,3,2,1,3,8,Travel_Rarely,5,43,41
+Stephanie Byrd,33,Male,Sales,Developer,17133,9,12,Yes,2,1,7,4,1,Non-Travel,6,45,45
+Jeremy Reed,42,Other,R&D,Manager,3688,30,8,No,4,1,6,3,24,Travel_Rarely,2,19,22
+Margaret Coleman,41,Female,R&D,Manager,19832,17,11,Yes,2,1,7,2,1,Non-Travel,3,34,32
+Ryan Gonzalez,51,Other,HR,Sales Executive,18010,23,12,Yes,3,2,8,1,15,Travel_Frequently,6,27,31
+John Young,29,Other,Sales,Analyst,13600,2,14,No,1,3,6,4,22,Non-Travel,0,15,18
+Laura Haney,52,Female,HR,Developer,13800,15,9,No,4,2,0,4,16,Travel_Rarely,2,20,21
+William Barrett,24,Male,HR,Analyst,11803,2,10,Yes,1,4,5,3,28,Travel_Rarely,2,31,28
+Keith Jennings,40,Male,R&D,Manager,11566,18,10,No,1,4,4,2,25,Travel_Frequently,1,29,29
+Amber Obrien,33,Other,Sales,Sales Executive,4993,22,2,No,4,3,0,4,10,Non-Travel,1,42,40
+Tanner Mitchell DDS,35,Other,R&D,Sales Executive,15245,11,12,Yes,3,3,1,4,30,Travel_Frequently,0,31,31
+Heather Fields,42,Other,Sales,Analyst,11487,9,6,Yes,2,4,5,5,21,Travel_Rarely,5,28,26
+Megan Le,49,Other,Sales,Sales Executive,9910,8,11,Yes,4,1,8,1,16,Non-Travel,3,17,20
+Sara Fuller,47,Other,R&D,Developer,9093,13,14,No,1,4,3,1,1,Travel_Rarely,2,33,35
+Maria Parker,44,Male,Sales,Manager,9922,7,1,Yes,3,1,0,3,10,Travel_Frequently,3,35,35
+Kevin Oconnor,30,Male,Sales,Manager,11312,10,4,Yes,4,1,5,4,26,Travel_Rarely,3,32,35
+Edward Burgess,43,Other,Sales,Analyst,9550,8,10,Yes,2,2,8,1,29,Travel_Frequently,4,22,24
+Carlos Ryan,27,Other,Sales,Developer,9949,29,1,No,2,1,1,1,7,Travel_Frequently,2,40,41
+Kiara Mcintyre,27,Other,HR,Sales Executive,19057,20,1,No,2,2,3,5,29,Non-Travel,1,15,10
+Dawn Summers,23,Male,HR,Sales Executive,17825,27,11,No,4,4,1,5,25,Travel_Rarely,3,32,27
+Dr. Paul Morgan,49,Female,HR,Analyst,9124,18,2,No,3,3,8,3,24,Travel_Frequently,5,21,18
+Victor Taylor,37,Female,R&D,Analyst,17522,6,3,Yes,3,2,9,4,20,Non-Travel,6,39,38
+Shannon Ramsey,37,Male,Sales,Developer,6234,5,8,Yes,4,4,1,1,26,Travel_Frequently,1,44,39
+Tracy Ballard,48,Female,Sales,Developer,8186,23,7,Yes,3,4,5,3,7,Travel_Frequently,6,46,47
+Richard Smith,47,Male,Sales,Sales Executive,16368,3,12,Yes,2,2,3,3,16,Travel_Frequently,6,34,30
+Jordan Chambers,44,Female,HR,Manager,19570,6,7,Yes,1,1,7,3,21,Travel_Frequently,2,24,22
+Lauren Carson,32,Male,R&D,Developer,3647,13,2,Yes,3,2,0,4,21,Travel_Frequently,5,45,49
+Ashley Hall,28,Other,Sales,Developer,9035,22,13,No,2,2,0,3,4,Travel_Frequently,6,22,25
+Stephen Hoffman,52,Other,Sales,Manager,7983,23,11,Yes,1,2,6,5,5,Travel_Frequently,0,15,17
+Connie Brown,47,Female,Sales,Manager,13620,25,12,No,4,1,5,5,12,Travel_Frequently,2,33,33
+Susan Turner,51,Female,Sales,Sales Executive,3559,24,0,Yes,4,2,9,1,15,Travel_Frequently,2,28,33
+Charles Shah,30,Female,HR,Analyst,14457,26,5,No,1,2,3,1,13,Travel_Frequently,4,28,24
+Johnathan Davis,53,Other,R&D,Manager,4801,10,5,No,1,1,1,3,29,Non-Travel,4,31,28
+Brandy Chavez,43,Male,HR,Manager,7904,16,4,No,3,2,0,5,19,Non-Travel,1,24,29
+Natalie Bautista,30,Male,R&D,Developer,15880,28,1,No,1,2,7,4,9,Travel_Rarely,0,32,27
+Patrick Moore,40,Other,HR,Analyst,7539,3,11,Yes,2,4,9,4,8,Non-Travel,2,21,21
+Brett Burns,55,Female,HR,Developer,3024,25,10,Yes,3,2,6,5,24,Travel_Rarely,4,33,38
+Trevor Johnson,37,Female,HR,Analyst,11315,14,7,Yes,1,3,2,4,11,Travel_Frequently,3,20,23
+Jeremy Sampson,28,Other,Sales,Manager,8759,11,3,No,3,3,2,4,2,Travel_Frequently,5,28,24
+Ariana Jennings,49,Male,Sales,Manager,11209,9,14,Yes,3,1,6,1,9,Non-Travel,6,26,31
+Vanessa Howard,53,Other,HR,Sales Executive,3874,13,14,No,3,3,3,3,30,Non-Travel,2,25,26
+Colton Martinez,49,Male,HR,Sales Executive,19839,19,4,Yes,4,4,6,5,8,Non-Travel,2,42,41
+Jordan Bates,39,Female,R&D,Developer,5790,12,1,No,4,1,1,1,10,Travel_Rarely,2,36,32
+Linda Smith,49,Other,HR,Sales Executive,13910,24,13,No,3,4,8,3,23,Travel_Rarely,0,27,30
+Dana Martinez,59,Female,R&D,Sales Executive,7118,26,12,Yes,3,3,0,5,16,Non-Travel,1,33,32
+Andrea Hubbard,58,Other,R&D,Manager,15300,27,1,Yes,3,1,9,2,27,Travel_Frequently,6,47,44
+Daniel Kane,25,Other,R&D,Sales Executive,17201,13,3,No,1,4,0,3,26,Travel_Rarely,5,17,17
+Charles Lester,28,Male,HR,Developer,15536,6,12,No,3,4,1,4,19,Travel_Frequently,5,34,30
+Scott Thomas,30,Female,R&D,Sales Executive,19313,11,4,Yes,4,2,5,5,12,Travel_Frequently,0,48,45
+David Thompson,33,Other,R&D,Sales Executive,3637,21,4,No,1,3,8,1,26,Non-Travel,1,49,46
+Allison Smith,57,Other,R&D,Analyst,9934,0,2,No,1,4,1,5,6,Non-Travel,0,31,36
+Cynthia Morris,50,Male,Sales,Analyst,18199,14,4,No,2,4,3,4,20,Travel_Frequently,0,35,39
+Anthony Harmon,34,Other,Sales,Developer,3293,8,7,Yes,1,2,9,2,27,Travel_Frequently,0,44,40
+Nichole Alvarez,29,Other,HR,Sales Executive,15687,1,10,Yes,3,1,1,1,30,Non-Travel,3,41,41
+Kayla Rodriguez,45,Other,HR,Manager,10514,11,0,Yes,4,2,9,1,12,Travel_Frequently,1,35,30
+Theresa Williams,31,Other,HR,Analyst,13082,17,2,Yes,1,3,9,1,21,Travel_Rarely,4,25,24
+Sharon Boyd,25,Other,HR,Sales Executive,14926,6,0,Yes,1,2,1,5,30,Travel_Frequently,1,33,32
+Victor Brown,27,Female,HR,Sales Executive,3234,9,13,No,1,4,1,5,28,Non-Travel,1,40,42
+James Parks,34,Other,Sales,Manager,5707,17,4,No,3,1,1,2,5,Non-Travel,2,23,28
+Theodore Jones Jr.,23,Female,Sales,Developer,5632,27,11,No,2,3,1,5,23,Travel_Rarely,5,45,41
+Ana Hill,52,Other,R&D,Analyst,16125,22,13,Yes,3,4,3,4,3,Travel_Frequently,2,38,41
+Kimberly Nguyen,55,Female,Sales,Analyst,9322,11,14,Yes,1,2,3,3,13,Travel_Rarely,3,21,20
+Kerry Chavez DDS,46,Other,R&D,Analyst,14410,12,0,No,2,2,6,5,3,Travel_Rarely,2,44,45
+Michael Farrell,30,Other,HR,Sales Executive,10689,22,14,No,3,4,1,1,22,Travel_Frequently,2,38,41
+Patricia Le,35,Male,Sales,Manager,11863,30,13,No,4,4,6,1,4,Travel_Frequently,5,43,47
+Jesse Perez,37,Female,R&D,Manager,7341,24,11,No,4,3,9,4,29,Non-Travel,1,46,50
+Jesse Perry,31,Female,R&D,Developer,6496,23,8,Yes,2,3,0,3,24,Travel_Rarely,5,17,21
+Jeffery Ortega,51,Male,HR,Sales Executive,18553,2,10,No,2,3,6,2,23,Travel_Rarely,0,39,39
+Christian Leblanc,57,Other,Sales,Sales Executive,5333,10,10,No,2,3,2,1,11,Non-Travel,3,37,35
+Ronald Davis,44,Other,HR,Analyst,15657,26,12,Yes,1,3,3,5,29,Travel_Rarely,6,44,42
+Parker Cain,22,Female,R&D,Sales Executive,5263,27,5,No,3,2,2,1,7,Non-Travel,0,24,24
+Laurie Hoffman,52,Male,Sales,Sales Executive,17951,30,6,Yes,4,2,0,1,5,Travel_Frequently,6,17,13
+Bryan Gomez,34,Male,HR,Manager,3822,14,8,No,4,3,2,4,27,Travel_Frequently,3,35,35
+Nicole Parrish,25,Other,Sales,Analyst,7302,10,13,No,2,4,7,3,23,Travel_Rarely,2,24,29
+Tracy Burke,26,Female,R&D,Sales Executive,19443,15,14,Yes,4,3,8,5,14,Non-Travel,5,29,26
+Kenneth Lewis,47,Female,R&D,Manager,12357,15,2,No,2,2,1,3,8,Non-Travel,6,28,27
+Courtney Rodriguez,22,Female,Sales,Developer,7480,6,4,Yes,4,3,3,5,7,Travel_Frequently,2,26,31
+Holly Farmer,25,Other,HR,Analyst,9522,26,10,Yes,2,2,0,1,26,Travel_Frequently,2,48,48
+Renee Bruce,25,Other,Sales,Developer,15724,15,11,Yes,3,1,0,2,14,Non-Travel,5,49,51
+Sabrina Austin,24,Female,R&D,Manager,17858,16,13,Yes,4,2,6,4,7,Travel_Rarely,3,23,20
+Allison Hickman,52,Other,Sales,Sales Executive,17134,10,8,No,2,4,5,2,11,Non-Travel,5,19,18
+Debra White,27,Other,HR,Developer,3672,23,1,No,3,2,2,5,28,Non-Travel,4,25,20
+Ellen Morgan,50,Male,HR,Developer,12382,5,12,No,1,3,3,1,4,Non-Travel,2,45,49
+Sergio Knight,22,Other,HR,Manager,4355,21,3,Yes,4,3,2,5,30,Non-Travel,3,17,12
+Charles Schultz,47,Female,Sales,Manager,19013,0,0,Yes,1,3,0,5,9,Non-Travel,5,23,21
+Paul Lewis,42,Female,R&D,Analyst,9505,15,5,Yes,4,4,7,3,20,Travel_Rarely,1,15,18
+Glen Wood,28,Female,Sales,Developer,5015,4,12,Yes,2,4,9,5,30,Travel_Rarely,6,45,42
+Paula Bradley,23,Other,Sales,Analyst,9053,7,4,No,1,2,7,1,12,Non-Travel,5,36,38
+Anthony Moore,55,Male,R&D,Analyst,5876,18,7,Yes,3,1,2,3,19,Non-Travel,3,47,46
+Megan Nelson,24,Male,R&D,Manager,12603,9,8,Yes,4,1,9,1,18,Non-Travel,3,47,48
+Karla Ramos,53,Other,Sales,Developer,15999,6,10,Yes,2,4,4,2,18,Travel_Rarely,0,38,34
+Paul Wilson,51,Female,R&D,Sales Executive,16382,25,11,No,2,2,4,2,14,Travel_Rarely,1,20,25
+Douglas Gregory,29,Other,R&D,Analyst,15711,9,12,Yes,1,3,9,5,14,Non-Travel,4,26,29
+Mr. Andrew Foster,40,Other,HR,Developer,9579,15,0,Yes,1,2,1,5,11,Travel_Rarely,6,33,30
+Aimee Turner,47,Male,Sales,Developer,8650,12,4,Yes,3,1,3,5,11,Non-Travel,3,17,14
+Chad Scott,57,Other,R&D,Sales Executive,12007,10,5,Yes,3,2,8,3,9,Travel_Rarely,6,49,52
+Adam Burgess,50,Other,Sales,Developer,5697,28,3,No,2,3,3,4,14,Non-Travel,4,36,37
+James Padilla,40,Male,HR,Sales Executive,8563,14,14,Yes,1,3,3,3,12,Travel_Rarely,3,28,30
+Sandra Drake,50,Male,R&D,Developer,8244,27,1,Yes,2,2,0,5,6,Travel_Frequently,3,26,25
+Scott Williams,54,Other,R&D,Analyst,10785,3,5,Yes,3,1,0,2,28,Non-Travel,2,23,19
+Thomas Atkins,36,Other,R&D,Manager,19209,17,2,Yes,4,3,8,1,11,Travel_Rarely,1,45,49
+Laura Mckinney,32,Other,R&D,Sales Executive,7349,30,1,Yes,4,2,5,3,17,Travel_Rarely,5,17,12
+Brian Smith,47,Female,Sales,Developer,19067,0,6,Yes,3,2,9,4,25,Travel_Rarely,6,29,33
+Robert Montgomery,45,Female,HR,Manager,7388,2,1,Yes,3,1,3,5,3,Travel_Frequently,2,33,36
+Tamara Davis,40,Male,Sales,Developer,8712,18,9,Yes,1,4,2,2,23,Non-Travel,6,44,42
+Dana Chapman,33,Other,HR,Manager,15673,3,1,No,4,2,6,1,8,Non-Travel,6,33,29
+Jennifer Collins,44,Male,R&D,Analyst,15283,14,13,No,4,1,2,4,24,Non-Travel,5,43,40
+Gary Jackson,37,Male,R&D,Analyst,4812,29,3,Yes,1,4,6,2,19,Travel_Frequently,6,17,13
+Ashley Hicks,39,Female,R&D,Sales Executive,5012,8,7,No,3,3,8,4,20,Non-Travel,4,48,49
+Hannah Luna,51,Female,Sales,Sales Executive,3174,14,7,No,3,4,8,5,19,Travel_Frequently,0,41,46
+Robin Young,44,Male,R&D,Manager,15085,8,9,Yes,4,1,5,4,22,Travel_Rarely,1,19,16
+Craig Morrison,40,Male,R&D,Manager,3166,0,3,Yes,1,3,4,1,12,Travel_Frequently,0,16,12
+Mary Thompson,40,Male,HR,Analyst,17192,28,14,Yes,4,2,5,5,4,Travel_Rarely,6,22,26
+Kathleen Webster,43,Female,Sales,Developer,15704,1,12,No,3,2,9,1,3,Non-Travel,1,26,30
+Joann Glass,39,Male,R&D,Developer,13365,6,3,Yes,4,3,8,3,10,Travel_Rarely,5,21,22
+Madison Weber,38,Female,HR,Developer,5212,5,8,Yes,1,2,9,5,9,Non-Travel,2,31,27
+Lori Hernandez,37,Male,Sales,Developer,10522,19,1,Yes,2,4,2,5,28,Travel_Frequently,6,16,14
+Jeremy Turner,53,Male,HR,Analyst,3673,5,12,Yes,4,4,1,1,13,Travel_Rarely,4,17,14
+Anthony Romero,41,Other,Sales,Developer,9609,0,3,No,2,2,4,5,5,Non-Travel,0,41,46
+Jesse Brown,59,Male,HR,Manager,8765,8,14,No,2,1,6,5,27,Travel_Rarely,4,24,23
+Angela Lin,46,Female,HR,Developer,10378,12,11,No,1,2,2,3,30,Travel_Rarely,1,19,14
+Lisa Hunter,55,Other,Sales,Manager,7143,18,5,No,2,2,5,3,15,Travel_Frequently,4,41,43
+Julian Conner,33,Female,Sales,Sales Executive,6726,8,3,No,1,3,6,3,21,Travel_Rarely,0,17,12
+Joanna Pacheco,22,Male,HR,Developer,16944,3,12,No,2,1,4,4,25,Travel_Rarely,0,38,39
+Erica Alvarez,42,Other,Sales,Developer,18691,28,11,Yes,2,1,1,4,4,Non-Travel,5,31,27
+Antonio Garcia,27,Other,R&D,Manager,14739,29,0,No,2,3,6,3,22,Non-Travel,4,30,32
+Gwendolyn Klein,36,Other,HR,Analyst,7039,11,6,Yes,2,1,5,5,24,Non-Travel,2,35,36
+Carrie Wright,48,Female,R&D,Sales Executive,18277,21,13,No,3,1,5,3,7,Non-Travel,0,35,31
+Jeffrey Mills,27,Male,Sales,Analyst,6119,1,0,Yes,3,1,9,5,4,Travel_Rarely,6,46,45
+Jake Campbell,39,Male,HR,Manager,19080,23,4,No,2,4,4,4,2,Non-Travel,3,17,13
+George Harper,23,Other,R&D,Sales Executive,9854,23,1,No,2,4,8,4,12,Travel_Frequently,5,24,20
+Maria Jones,38,Female,Sales,Developer,16460,17,10,Yes,4,2,6,3,10,Travel_Frequently,2,25,29
+Michael Mitchell,22,Male,Sales,Developer,17540,30,9,Yes,3,3,4,3,1,Travel_Frequently,6,30,31
+Mary Escobar,22,Other,R&D,Manager,12210,26,14,Yes,3,2,9,3,12,Non-Travel,5,34,33
+Felicia Aguilar,55,Female,Sales,Developer,13689,4,4,Yes,2,3,7,4,16,Non-Travel,4,26,28
+Gregory Ponce,35,Male,Sales,Analyst,11613,18,11,Yes,3,1,7,2,2,Travel_Frequently,2,30,31
+Jenna Larson,41,Female,HR,Developer,15328,7,1,No,1,3,1,1,12,Travel_Frequently,1,47,51
+Emily Bennett,43,Female,Sales,Analyst,9359,7,8,Yes,1,3,1,2,26,Travel_Rarely,3,21,26
+Robin Santiago,31,Male,Sales,Analyst,8652,4,12,No,3,2,3,1,5,Travel_Rarely,3,18,23
+Nancy Jennings,47,Other,HR,Manager,18280,0,0,No,3,2,2,1,12,Travel_Rarely,3,15,18
+Maria Henderson,48,Female,Sales,Sales Executive,9267,2,6,Yes,1,1,5,1,16,Travel_Rarely,0,28,26
+Jack White,22,Other,HR,Sales Executive,9415,22,2,Yes,1,3,0,1,3,Travel_Rarely,0,30,30
+Travis Tucker,26,Other,R&D,Sales Executive,12620,3,3,Yes,3,2,1,4,23,Travel_Rarely,6,31,26
+Chad Jones,54,Other,Sales,Sales Executive,12269,27,6,Yes,2,2,7,1,26,Travel_Rarely,6,46,50
+Ashley Wise,22,Female,HR,Manager,7988,27,6,Yes,2,2,5,3,19,Travel_Rarely,0,28,32
+Sophia Johnson,39,Male,Sales,Developer,13829,3,8,Yes,1,2,1,2,7,Non-Travel,6,39,40
+Ralph Anderson,38,Female,Sales,Sales Executive,11055,22,9,Yes,2,1,4,4,2,Travel_Frequently,2,42,41
+Christopher Guerra,31,Other,HR,Developer,11552,11,13,No,3,1,7,2,8,Travel_Rarely,2,21,23
+Rhonda Martin,44,Male,R&D,Developer,3190,23,12,No,2,3,7,4,30,Travel_Rarely,2,35,37
+Jason Rhodes,46,Female,Sales,Analyst,14446,1,1,No,3,1,5,3,14,Travel_Frequently,5,20,18
+Jeremy Mitchell,48,Female,R&D,Analyst,16905,19,13,Yes,3,3,1,5,27,Travel_Frequently,6,27,25
+Joann Ferguson,24,Female,HR,Developer,18939,19,8,No,4,2,0,5,19,Non-Travel,4,16,12
+Robert Harrison,37,Male,HR,Sales Executive,9278,22,7,No,2,3,2,1,25,Travel_Rarely,1,35,33
+Holly Valentine,56,Female,HR,Manager,10854,1,0,Yes,1,2,5,2,5,Travel_Rarely,1,20,24
+Mrs. Diane Reyes,53,Other,Sales,Sales Executive,14446,9,12,No,4,4,1,5,15,Travel_Rarely,3,22,18
+Tracy Montoya,53,Female,R&D,Developer,18139,1,12,No,4,1,3,4,28,Non-Travel,5,34,29
+Brenda Wright,41,Female,HR,Manager,12815,30,7,Yes,4,2,9,4,16,Non-Travel,0,40,36
+Shelly Spencer,36,Male,HR,Sales Executive,17610,18,11,No,3,2,0,2,5,Travel_Frequently,0,38,41
+Ryan Rosales,56,Male,Sales,Manager,7053,9,5,Yes,1,2,5,4,14,Travel_Rarely,0,26,30
+Phillip Nelson,51,Other,R&D,Manager,15593,19,8,No,3,4,1,4,11,Non-Travel,6,15,12
+Brittany Kim,50,Female,R&D,Analyst,7019,16,3,Yes,2,3,5,4,26,Non-Travel,3,26,28
+Courtney Hayes,28,Male,Sales,Developer,4293,24,5,Yes,4,3,9,3,24,Travel_Rarely,5,24,19
+Alexander Brown,46,Female,Sales,Developer,13764,18,0,No,1,3,6,3,5,Non-Travel,3,19,16
+Cynthia Vang,22,Male,R&D,Analyst,13533,21,3,No,1,2,0,5,26,Travel_Frequently,3,20,21
+Alfred Galvan,23,Female,Sales,Sales Executive,16006,21,14,Yes,3,3,4,3,27,Non-Travel,5,48,51
+Marie Moody,41,Other,R&D,Developer,4971,23,13,Yes,1,3,5,3,16,Travel_Frequently,5,39,39
+Dustin Gallegos,26,Female,R&D,Analyst,10369,14,3,Yes,4,2,4,5,22,Travel_Rarely,3,40,38
+Brenda Thornton,40,Male,Sales,Analyst,14765,24,13,Yes,1,1,6,4,26,Travel_Frequently,2,33,32
+Aaron Miller,32,Other,R&D,Manager,5669,29,4,No,4,3,3,5,27,Travel_Rarely,5,29,26
+Ruben Dunn,29,Male,Sales,Analyst,16487,0,9,No,4,2,3,2,3,Travel_Rarely,1,36,34
+Kelsey Rodriguez,35,Other,HR,Developer,12602,10,4,Yes,2,1,3,3,18,Travel_Frequently,1,41,41
+Eric Williams,31,Male,Sales,Sales Executive,12452,17,14,No,3,2,9,2,8,Non-Travel,4,49,52
+Riley Bryant,56,Male,HR,Analyst,4184,20,10,Yes,1,4,8,1,20,Travel_Rarely,2,31,30
+Taylor Carlson,22,Male,R&D,Analyst,13044,1,7,Yes,3,1,2,3,30,Travel_Frequently,2,23,20
+Jose Allen,27,Other,R&D,Sales Executive,19479,21,8,No,2,4,1,3,11,Travel_Frequently,2,32,34
+Jeffrey Mendez,53,Female,R&D,Analyst,17950,8,2,No,2,2,4,4,16,Non-Travel,3,47,46
+Jason Beck,23,Other,HR,Manager,10025,12,8,Yes,2,4,9,2,8,Travel_Rarely,6,41,39
+William Jones,50,Female,R&D,Manager,6068,22,10,Yes,2,4,0,3,3,Travel_Rarely,5,16,13
+Katie Mcneil,50,Other,Sales,Analyst,9465,16,11,No,2,3,4,3,16,Travel_Frequently,3,32,36
+Jeanette Harrison,52,Male,HR,Developer,19084,12,8,Yes,2,2,8,4,27,Non-Travel,5,40,38
+Veronica King,43,Other,R&D,Analyst,9873,6,8,No,3,2,0,4,3,Travel_Rarely,6,41,41
+Richard Cooper,55,Other,R&D,Developer,14733,18,6,Yes,3,1,7,2,9,Travel_Frequently,0,32,35
+Lori Ingram,53,Other,R&D,Analyst,19513,8,4,Yes,3,1,1,2,25,Travel_Rarely,5,15,19
+Evelyn Williams,35,Other,R&D,Analyst,12020,21,12,Yes,1,4,2,1,1,Non-Travel,2,29,32
+Robin Thompson,40,Other,Sales,Sales Executive,13172,3,8,No,1,4,2,2,26,Travel_Frequently,6,22,20
+Julie Dominguez,53,Female,HR,Analyst,11612,10,5,Yes,2,4,1,2,10,Travel_Rarely,1,33,31
+Robin Brown,58,Other,HR,Developer,13271,6,14,No,4,1,5,1,26,Travel_Rarely,0,18,18
+Judith Carter,36,Male,Sales,Analyst,6211,20,6,Yes,1,2,4,3,17,Non-Travel,2,44,44
+Curtis Williams,52,Male,R&D,Sales Executive,18133,10,12,Yes,3,4,6,2,22,Travel_Frequently,6,23,27
+Kaylee Hays,55,Female,Sales,Analyst,4628,12,2,No,2,2,8,2,11,Travel_Rarely,0,15,13
+Dawn Mullins,55,Female,HR,Sales Executive,19779,10,5,No,3,2,5,4,15,Travel_Rarely,0,29,28
+Howard Norman,42,Female,R&D,Developer,6835,24,7,No,4,4,0,2,23,Travel_Rarely,6,15,10
+Evelyn Martinez,42,Female,Sales,Sales Executive,13652,19,2,Yes,3,2,0,2,15,Travel_Frequently,5,42,46
+Steve Paul,39,Male,HR,Sales Executive,9512,1,12,No,2,1,5,3,2,Travel_Frequently,3,16,18
+Jasmine Beltran,34,Female,R&D,Analyst,6948,4,2,Yes,3,3,7,2,4,Travel_Frequently,0,20,24
+Jonathan Glass MD,48,Female,Sales,Analyst,9862,18,0,Yes,3,4,9,2,27,Travel_Frequently,3,22,26
+Monica Miller,52,Male,Sales,Sales Executive,7005,28,3,Yes,1,4,2,3,29,Travel_Rarely,0,30,34
+Samantha Gardner,30,Male,R&D,Sales Executive,17604,12,5,Yes,3,4,2,5,27,Travel_Rarely,3,25,22
+Bobby Guerrero,53,Male,Sales,Analyst,15582,4,7,Yes,4,4,4,4,5,Travel_Rarely,0,47,42
+Lance Simmons,47,Female,HR,Developer,11837,16,7,Yes,1,4,6,2,4,Non-Travel,2,37,39
+Heather Williams,32,Female,R&D,Analyst,16128,0,12,Yes,2,3,9,1,19,Travel_Rarely,6,21,20
+Heather Bolton,26,Other,Sales,Analyst,15689,19,5,Yes,1,4,3,2,11,Travel_Frequently,5,33,37
+William Gould,42,Other,R&D,Developer,13916,4,0,Yes,1,3,7,2,15,Non-Travel,6,20,17
+Mark Cox,54,Male,HR,Manager,18447,22,2,Yes,4,4,2,2,8,Non-Travel,3,25,25
+Meghan Cisneros,43,Female,HR,Analyst,3924,1,8,No,1,3,5,5,8,Non-Travel,6,20,22
+Lawrence Harrington,44,Other,HR,Developer,19218,1,0,No,4,3,0,4,18,Travel_Frequently,6,45,41
+Austin Osborne,53,Male,R&D,Analyst,5562,14,12,Yes,2,2,4,4,20,Non-Travel,1,35,32
+James Bradley,29,Female,Sales,Sales Executive,11521,29,0,Yes,1,4,8,4,22,Non-Travel,6,16,19
+Meghan Rush,41,Male,HR,Manager,13826,20,12,Yes,2,2,8,1,21,Non-Travel,0,34,37
+Phillip Berry,49,Male,HR,Sales Executive,6306,17,4,Yes,4,3,9,5,7,Non-Travel,0,46,43

@@ -1,0 +1,501 @@
+Age,DistanceFromHome,Education,JobSatisfaction,MonthlyIncome,YearsAtCompany,TasksCompletedLastMonth,TasksCompletedNextMonth,Attrition,Department,JobRole
+56,5,2,2,3294,19,29,31,No,R&D,Developer
+46,12,3,2,13177,5,21,23,No,Sales,Sales Executive
+32,17,2,4,12882,17,35,34,No,Sales,Sales Executive
+25,23,2,4,4136,7,35,30,No,R&D,Analyst
+38,13,2,1,5064,6,38,42,No,Sales,Sales Executive
+56,23,3,2,10009,0,48,49,No,R&D,Developer
+36,25,4,2,15987,15,26,30,No,HR,Manager
+40,3,3,4,7543,11,41,40,No,Sales,Sales Executive
+28,9,1,3,4007,5,31,33,No,R&D,Analyst
+28,17,3,2,8445,19,43,46,No,Sales,Sales Executive
+41,17,3,3,13706,1,34,39,No,R&D,Analyst
+53,20,3,4,17749,13,27,28,No,HR,Manager
+57,16,3,4,14718,3,25,26,No,HR,Manager
+41,25,4,1,12439,0,47,42,No,R&D,Developer
+20,22,1,2,16281,17,46,44,No,R&D,Analyst
+39,13,4,3,4435,12,29,25,No,R&D,Developer
+19,27,4,1,3571,1,22,18,Yes,HR,Manager
+41,19,3,2,5382,8,38,34,No,R&D,Developer
+47,17,2,1,8084,1,36,34,No,R&D,Analyst
+55,4,2,4,19661,8,26,21,No,R&D,Developer
+19,12,4,2,16507,0,40,38,No,R&D,Analyst
+38,29,4,1,10059,10,39,35,No,R&D,Developer
+50,9,3,1,15771,2,45,44,No,HR,Manager
+29,19,4,3,10491,19,23,20,No,R&D,Developer
+39,12,3,1,17527,3,33,35,No,R&D,Analyst
+42,9,2,2,17859,17,39,37,No,Sales,Sales Executive
+44,7,2,2,11073,5,41,36,No,R&D,Analyst
+59,28,1,3,12077,2,34,29,No,HR,Manager
+45,14,2,2,14383,10,43,47,No,R&D,Developer
+33,20,4,4,19378,14,27,24,No,Sales,Sales Executive
+32,19,2,2,5353,4,40,43,No,HR,Manager
+20,26,3,2,7799,19,34,35,No,R&D,Analyst
+54,15,2,1,14939,9,41,37,No,R&D,Developer
+24,16,1,1,5428,11,39,42,No,Sales,Sales Executive
+38,21,2,2,14296,14,47,51,No,R&D,Analyst
+26,5,3,3,10813,16,33,29,No,Sales,Sales Executive
+56,3,3,1,17414,9,46,43,No,R&D,Developer
+35,12,4,3,14801,5,48,53,No,HR,Manager
+21,25,2,2,14745,17,28,32,No,R&D,Developer
+42,20,3,2,16025,12,27,23,No,R&D,Analyst
+31,27,1,4,6356,2,45,42,No,Sales,Sales Executive
+26,21,4,1,17288,9,47,47,No,Sales,Sales Executive
+43,4,1,2,9540,13,45,48,No,HR,Manager
+19,21,2,4,19422,5,36,39,No,HR,Manager
+37,23,2,1,6342,2,21,22,No,R&D,Developer
+45,16,2,2,12078,15,44,41,No,HR,Manager
+24,25,4,2,5844,6,43,41,No,R&D,Analyst
+25,7,3,1,13396,19,49,49,No,R&D,Developer
+52,13,4,1,16998,13,22,27,No,R&D,Developer
+31,21,1,1,16261,8,27,26,No,R&D,Developer
+34,10,4,2,6093,14,31,27,No,R&D,Analyst
+53,26,1,2,14722,2,20,20,No,HR,Manager
+57,7,4,4,14645,1,29,26,No,Sales,Sales Executive
+21,14,3,3,18083,1,39,41,No,HR,Manager
+19,26,1,1,3988,2,22,18,Yes,R&D,Developer
+23,5,2,2,9446,17,25,20,No,R&D,Developer
+59,3,2,2,19335,13,26,29,No,R&D,Analyst
+21,23,4,1,19133,19,39,36,No,R&D,Developer
+46,29,2,3,4682,17,42,47,No,HR,Manager
+35,11,1,1,8626,9,44,39,No,R&D,Analyst
+43,11,2,3,10424,1,46,47,No,Sales,Sales Executive
+51,18,3,2,15857,0,37,41,No,HR,Manager
+27,15,3,3,15155,3,30,29,No,HR,Manager
+53,12,4,4,14425,13,38,37,No,HR,Manager
+31,9,1,2,4980,0,24,19,Yes,R&D,Analyst
+48,10,3,4,18522,13,38,41,No,R&D,Developer
+32,26,3,1,11984,15,30,31,No,R&D,Analyst
+25,12,1,1,18883,13,43,45,No,R&D,Analyst
+31,17,2,1,8390,19,31,34,No,R&D,Developer
+40,29,2,3,4607,2,29,29,No,Sales,Sales Executive
+57,6,4,2,9573,2,27,26,No,R&D,Developer
+38,7,2,1,8776,8,43,43,No,Sales,Sales Executive
+33,14,1,1,6676,5,47,52,No,R&D,Developer
+35,13,3,2,6380,12,47,43,No,R&D,Developer
+41,8,2,1,11711,1,28,26,No,Sales,Sales Executive
+43,10,4,4,11782,7,23,20,No,Sales,Sales Executive
+42,9,2,2,16997,1,24,25,No,R&D,Developer
+58,18,1,2,9342,3,40,43,No,Sales,Sales Executive
+46,27,4,2,9059,14,27,26,No,R&D,Developer
+32,26,2,4,11884,3,42,42,No,Sales,Sales Executive
+18,2,4,2,8655,12,28,32,No,Sales,Sales Executive
+42,5,1,4,15091,11,34,30,No,R&D,Developer
+24,29,3,2,18251,12,34,31,No,R&D,Developer
+26,5,1,3,3526,13,35,32,No,R&D,Developer
+41,6,1,1,6224,19,33,36,No,HR,Manager
+18,19,1,3,18069,17,27,28,No,HR,Manager
+25,8,1,1,14536,5,37,39,No,Sales,Sales Executive
+41,16,3,4,16547,10,29,34,No,Sales,Sales Executive
+28,13,3,3,4763,1,47,51,No,R&D,Developer
+34,1,4,2,11712,18,39,44,No,Sales,Sales Executive
+25,22,2,1,8797,18,25,28,No,Sales,Sales Executive
+52,20,3,1,12208,4,31,31,No,HR,Manager
+52,17,3,3,8109,18,21,19,No,R&D,Developer
+50,7,2,4,19500,1,26,21,No,R&D,Analyst
+22,25,3,3,5433,9,35,37,No,R&D,Analyst
+59,13,1,4,19967,1,22,23,No,HR,Manager
+56,4,1,4,7167,10,32,28,No,Sales,Sales Executive
+58,4,2,1,11357,17,22,24,No,R&D,Developer
+45,6,4,3,9154,14,46,45,No,R&D,Analyst
+24,28,4,3,11920,8,37,38,No,R&D,Developer
+26,19,2,4,3213,18,30,28,No,R&D,Developer
+25,29,2,3,6762,8,27,26,No,Sales,Sales Executive
+29,12,1,2,16399,2,25,27,No,HR,Manager
+51,22,4,2,12768,8,20,15,No,Sales,Sales Executive
+50,7,3,3,13640,13,47,42,No,R&D,Developer
+40,27,1,3,9731,18,20,18,No,HR,Manager
+41,10,2,4,8791,6,42,39,No,R&D,Analyst
+54,26,4,2,18822,15,27,31,No,Sales,Sales Executive
+52,19,3,2,11783,15,24,20,No,R&D,Analyst
+57,7,3,1,16621,0,47,44,No,Sales,Sales Executive
+39,3,1,4,19019,3,35,40,No,R&D,Analyst
+44,13,4,1,5720,3,30,35,No,Sales,Sales Executive
+52,13,4,2,11905,6,24,29,No,R&D,Analyst
+18,18,2,4,12127,7,23,18,No,R&D,Developer
+52,28,4,3,19385,16,49,44,No,Sales,Sales Executive
+54,26,4,4,9368,4,25,25,No,HR,Manager
+31,20,1,3,17056,6,33,32,No,Sales,Sales Executive
+20,28,4,3,15236,19,41,43,No,HR,Manager
+18,8,3,4,17451,19,38,34,No,Sales,Sales Executive
+22,29,1,3,13433,3,28,26,No,R&D,Developer
+43,9,1,1,18525,5,31,33,No,R&D,Developer
+31,7,2,2,3089,6,30,30,No,R&D,Analyst
+56,1,4,3,13361,17,33,28,No,R&D,Developer
+44,3,2,1,19369,4,42,40,No,Sales,Sales Executive
+26,13,3,3,6041,19,35,30,No,R&D,Analyst
+32,28,1,2,3105,2,20,16,Yes,R&D,Analyst
+32,25,1,1,12078,6,32,31,No,R&D,Analyst
+43,28,1,2,9090,13,42,44,No,Sales,Sales Executive
+59,17,3,2,9082,6,40,42,No,R&D,Developer
+30,25,3,1,4925,4,40,45,No,HR,Manager
+49,24,2,1,9917,4,49,46,No,HR,Manager
+56,1,2,1,3552,1,32,37,Yes,R&D,Analyst
+49,6,2,4,6911,5,21,19,No,HR,Manager
+21,21,4,1,6389,14,23,27,No,HR,Manager
+47,6,1,1,16629,9,47,52,No,R&D,Analyst
+54,26,1,1,5430,6,25,25,No,R&D,Analyst
+40,12,2,1,3458,4,45,50,No,HR,Manager
+56,13,1,3,16395,0,46,51,No,HR,Manager
+32,13,2,4,3207,12,42,46,No,Sales,Sales Executive
+46,29,4,2,3899,17,46,43,No,R&D,Analyst
+53,15,4,1,14653,12,24,20,No,R&D,Developer
+30,21,3,3,19405,17,44,44,No,Sales,Sales Executive
+49,16,4,3,11601,4,22,27,No,R&D,Developer
+24,22,2,3,3894,12,20,19,No,R&D,Analyst
+39,21,4,2,3514,3,23,27,No,Sales,Sales Executive
+45,11,3,1,7109,16,44,43,No,R&D,Developer
+19,28,1,4,16258,2,39,43,No,R&D,Developer
+59,5,2,4,18313,16,21,20,No,HR,Manager
+23,4,1,3,18349,10,45,49,No,Sales,Sales Executive
+45,3,3,2,10179,19,49,48,No,R&D,Analyst
+45,19,3,2,13326,3,49,46,No,R&D,Developer
+37,20,3,2,14787,1,24,25,No,R&D,Developer
+47,25,1,4,4560,19,22,22,No,HR,Manager
+28,18,1,3,16612,15,48,46,No,Sales,Sales Executive
+45,15,1,1,7780,17,47,43,No,R&D,Analyst
+42,9,1,4,14894,7,48,51,No,R&D,Analyst
+56,17,3,3,5356,2,28,23,No,Sales,Sales Executive
+50,14,3,3,7790,8,39,44,No,HR,Manager
+18,15,2,1,19690,19,25,23,No,R&D,Developer
+44,1,2,1,13181,5,37,32,No,HR,Manager
+30,21,1,1,10057,9,25,25,No,HR,Manager
+58,22,4,2,19082,9,38,36,No,HR,Manager
+20,22,4,1,3661,12,47,46,No,Sales,Sales Executive
+56,3,3,3,7644,16,31,30,No,R&D,Analyst
+23,16,3,1,18711,8,44,47,No,HR,Manager
+25,23,3,3,5920,16,30,25,No,Sales,Sales Executive
+44,25,2,4,19002,8,21,17,No,R&D,Developer
+26,11,2,2,17025,8,34,34,No,R&D,Analyst
+54,12,3,4,11946,0,31,30,No,R&D,Developer
+50,10,3,4,15732,1,31,36,No,R&D,Analyst
+59,16,3,3,9236,15,28,29,No,Sales,Sales Executive
+41,8,4,4,19309,0,40,37,No,R&D,Developer
+32,6,2,3,16518,9,43,40,No,R&D,Analyst
+49,12,4,1,3352,17,21,25,No,R&D,Developer
+49,24,4,1,10005,7,41,37,No,R&D,Developer
+41,28,3,3,17036,10,22,19,No,R&D,Analyst
+58,21,3,1,19542,1,31,35,No,HR,Manager
+29,8,1,2,3956,7,47,42,No,R&D,Developer
+56,26,1,4,5071,7,49,48,No,HR,Manager
+19,28,4,2,11595,16,45,44,No,R&D,Analyst
+20,4,2,4,18140,14,35,40,No,HR,Manager
+54,26,3,1,15803,16,40,41,No,Sales,Sales Executive
+34,8,3,2,6453,12,47,45,No,Sales,Sales Executive
+19,26,4,1,9675,18,43,40,No,R&D,Developer
+19,28,1,4,3955,4,45,40,No,Sales,Sales Executive
+45,18,2,3,9295,11,49,51,No,R&D,Developer
+40,28,1,3,18921,0,20,17,No,R&D,Developer
+54,28,1,2,18282,4,40,36,No,HR,Manager
+49,5,1,1,7703,7,22,27,No,R&D,Analyst
+50,9,1,1,9563,12,39,37,No,Sales,Sales Executive
+18,4,3,2,15003,7,21,18,No,R&D,Developer
+36,27,3,3,13817,10,28,23,No,R&D,Analyst
+19,22,1,4,14171,0,38,35,No,R&D,Developer
+43,17,2,2,15582,12,34,30,No,R&D,Analyst
+49,9,4,4,15201,18,37,39,No,Sales,Sales Executive
+23,1,2,3,15473,2,45,45,No,R&D,Developer
+49,21,2,1,12461,16,30,33,No,Sales,Sales Executive
+21,20,2,3,18596,4,44,46,No,HR,Manager
+28,13,1,2,3529,19,42,46,No,Sales,Sales Executive
+34,28,3,1,15765,7,35,32,No,HR,Manager
+55,16,2,2,16910,13,41,40,No,Sales,Sales Executive
+41,29,1,2,14561,3,36,37,No,Sales,Sales Executive
+22,13,2,3,12131,10,24,23,No,Sales,Sales Executive
+51,14,2,2,3525,19,31,33,No,Sales,Sales Executive
+23,3,1,3,19385,14,30,29,No,Sales,Sales Executive
+39,29,3,1,3374,18,49,44,No,R&D,Developer
+28,6,3,3,15197,6,34,33,No,R&D,Analyst
+33,18,4,1,7648,18,46,44,No,R&D,Analyst
+50,19,1,3,5365,18,22,22,No,R&D,Developer
+26,5,4,4,4646,10,20,17,No,HR,Manager
+23,15,4,4,3013,4,39,44,No,HR,Manager
+33,25,4,2,7599,4,48,47,No,Sales,Sales Executive
+46,2,3,3,5278,7,35,31,No,R&D,Analyst
+20,10,1,3,17296,9,21,26,No,R&D,Analyst
+37,24,4,1,6155,5,21,21,No,HR,Manager
+53,18,1,2,11321,14,22,22,No,Sales,Sales Executive
+36,27,1,3,6814,15,27,26,No,R&D,Developer
+43,13,3,2,16125,16,43,43,No,R&D,Developer
+20,5,4,4,6216,7,47,52,No,Sales,Sales Executive
+36,23,4,3,5113,7,34,35,No,Sales,Sales Executive
+37,24,1,3,13238,8,26,25,No,HR,Manager
+49,1,2,2,16760,1,25,20,No,HR,Manager
+24,22,3,3,15588,14,28,30,No,Sales,Sales Executive
+58,1,3,2,6374,17,39,37,No,R&D,Analyst
+50,18,3,3,9430,2,47,50,No,R&D,Analyst
+57,15,3,1,14970,16,20,24,No,R&D,Analyst
+56,17,4,2,3629,3,27,27,No,R&D,Developer
+35,11,4,3,19653,3,42,37,No,R&D,Developer
+57,21,2,4,13831,13,42,39,No,R&D,Developer
+18,26,3,3,8724,8,22,19,No,HR,Manager
+28,25,3,4,14083,8,23,27,No,R&D,Developer
+45,22,1,4,16149,17,45,43,No,R&D,Developer
+42,27,4,1,12472,9,44,44,No,R&D,Analyst
+40,27,3,2,9276,3,34,35,No,HR,Manager
+48,17,2,3,18635,11,25,29,No,Sales,Sales Executive
+47,13,2,1,8895,7,34,32,No,HR,Manager
+59,1,4,3,16994,1,40,40,No,HR,Manager
+52,2,2,4,13552,12,22,27,No,R&D,Analyst
+24,9,2,2,19959,15,44,39,No,HR,Manager
+33,3,4,3,9099,1,40,42,No,Sales,Sales Executive
+43,1,3,3,12499,10,40,41,No,Sales,Sales Executive
+19,21,3,4,6178,9,33,38,No,HR,Manager
+18,16,2,3,9116,14,39,44,No,Sales,Sales Executive
+29,23,2,3,18563,16,33,36,No,HR,Manager
+22,6,3,4,6568,7,23,20,No,R&D,Developer
+54,28,4,1,12847,17,31,27,No,Sales,Sales Executive
+49,17,2,4,17135,8,36,31,No,R&D,Developer
+26,5,1,1,4742,7,26,23,No,HR,Manager
+58,5,4,2,3619,13,28,27,No,HR,Manager
+52,6,2,1,4939,17,22,27,No,Sales,Sales Executive
+36,3,2,1,19001,19,47,43,No,Sales,Sales Executive
+33,21,1,2,3968,19,32,29,No,R&D,Analyst
+20,23,1,1,17846,11,34,32,No,R&D,Developer
+37,5,3,4,3281,18,37,38,No,Sales,Sales Executive
+41,21,4,1,18360,13,38,35,No,R&D,Developer
+50,5,4,2,9262,16,20,23,No,HR,Manager
+41,10,3,4,4058,2,25,27,No,HR,Manager
+28,10,4,2,13724,6,46,44,No,Sales,Sales Executive
+25,19,4,2,8178,16,46,41,No,R&D,Developer
+53,17,4,3,9980,11,42,37,No,HR,Manager
+55,21,4,3,12200,8,46,41,No,R&D,Analyst
+57,14,4,2,4229,14,46,41,No,R&D,Analyst
+37,9,1,2,11467,17,21,23,No,R&D,Analyst
+52,14,4,2,5289,12,43,40,No,Sales,Sales Executive
+42,1,1,3,4239,7,33,33,No,R&D,Developer
+52,19,4,3,8370,13,25,22,No,R&D,Developer
+42,13,3,1,19170,7,33,38,No,HR,Manager
+46,13,2,1,3125,13,23,22,No,HR,Manager
+35,4,1,2,15504,6,40,41,No,HR,Manager
+35,1,4,4,18398,11,27,23,No,Sales,Sales Executive
+19,17,3,4,9638,10,49,49,No,R&D,Developer
+52,8,2,3,9570,10,22,22,No,R&D,Developer
+33,2,1,3,6249,12,38,43,No,Sales,Sales Executive
+58,28,2,3,12110,17,49,46,No,R&D,Analyst
+53,8,3,2,10595,1,33,33,No,R&D,Developer
+50,7,1,4,16605,14,46,50,No,Sales,Sales Executive
+21,26,2,1,15115,19,39,43,No,R&D,Analyst
+50,26,4,2,9294,17,36,35,No,R&D,Developer
+31,2,1,1,8757,14,44,40,No,R&D,Developer
+38,22,2,1,15595,18,27,30,No,R&D,Analyst
+37,22,3,2,4969,11,43,45,No,HR,Manager
+25,3,3,1,13985,12,33,30,No,R&D,Analyst
+24,27,1,4,7470,10,45,47,No,R&D,Developer
+20,18,2,1,13225,4,25,28,No,Sales,Sales Executive
+34,12,1,4,12556,0,42,39,No,R&D,Developer
+50,1,1,4,12206,2,41,38,No,R&D,Analyst
+29,22,2,4,12991,18,35,31,No,R&D,Analyst
+39,12,2,3,10519,6,44,46,No,R&D,Analyst
+39,5,4,1,16669,11,38,42,No,Sales,Sales Executive
+47,27,2,2,7612,14,33,28,No,R&D,Analyst
+55,25,3,2,15373,4,38,40,No,R&D,Developer
+55,17,1,1,18552,14,22,23,No,HR,Manager
+25,16,1,3,17646,7,29,30,No,R&D,Developer
+44,15,3,3,8238,9,38,35,No,R&D,Analyst
+44,23,2,4,18577,15,28,23,No,R&D,Developer
+51,15,3,1,18504,7,47,45,No,R&D,Developer
+38,5,3,1,6719,0,39,42,No,HR,Manager
+47,21,4,2,3302,11,32,31,No,R&D,Developer
+50,14,3,1,15144,4,26,21,No,HR,Manager
+45,2,1,3,13055,2,33,32,No,R&D,Analyst
+50,11,3,1,7440,0,28,30,No,HR,Manager
+22,19,1,2,6072,3,46,48,No,R&D,Analyst
+36,7,1,4,16598,7,47,46,No,Sales,Sales Executive
+21,6,1,2,17287,2,42,45,No,HR,Manager
+52,28,2,2,16965,9,44,39,No,R&D,Developer
+34,2,4,4,12519,1,47,45,No,R&D,Analyst
+45,6,1,2,16380,10,38,35,No,HR,Manager
+47,18,1,2,14865,9,34,30,No,R&D,Analyst
+46,2,2,1,11125,13,39,41,No,R&D,Analyst
+23,18,1,1,6291,6,33,34,No,R&D,Analyst
+52,15,3,4,7033,1,43,46,No,R&D,Developer
+58,27,3,1,8105,8,25,21,No,R&D,Analyst
+54,19,4,1,11133,15,40,38,No,Sales,Sales Executive
+41,2,1,2,19958,12,48,48,No,R&D,Developer
+46,20,2,3,8704,8,23,28,No,R&D,Developer
+48,25,3,1,10848,19,27,24,No,Sales,Sales Executive
+52,6,2,3,15975,3,36,38,No,R&D,Developer
+50,1,2,1,9924,9,49,46,No,Sales,Sales Executive
+38,24,3,1,3488,11,28,24,No,HR,Manager
+49,15,2,4,10114,16,20,17,No,Sales,Sales Executive
+40,28,3,4,18740,13,43,48,No,R&D,Analyst
+50,23,2,4,6173,13,39,39,No,HR,Manager
+20,10,3,3,4667,1,44,40,No,Sales,Sales Executive
+35,19,1,2,7114,19,33,35,No,R&D,Analyst
+42,17,4,1,6553,10,30,25,No,Sales,Sales Executive
+59,5,3,1,10761,15,40,41,No,Sales,Sales Executive
+48,29,3,1,4000,18,22,18,No,Sales,Sales Executive
+20,4,4,3,18638,5,28,32,No,Sales,Sales Executive
+57,10,3,4,8450,18,46,46,No,R&D,Analyst
+41,24,3,2,6712,4,33,29,No,R&D,Analyst
+49,17,2,3,4367,3,49,45,No,R&D,Developer
+39,10,4,4,11189,14,28,32,No,R&D,Analyst
+40,17,1,3,12013,3,23,25,No,R&D,Developer
+19,28,3,2,19838,19,46,42,No,Sales,Sales Executive
+44,20,4,4,6726,9,23,24,No,Sales,Sales Executive
+59,24,2,3,7806,2,47,44,No,R&D,Developer
+19,5,1,2,5190,4,27,29,No,R&D,Developer
+43,2,4,1,12108,5,21,22,No,R&D,Analyst
+34,6,1,2,15178,7,28,30,No,HR,Manager
+57,21,1,1,5875,6,48,49,No,R&D,Developer
+50,2,1,3,8592,9,33,38,No,HR,Manager
+26,13,3,4,15592,5,41,41,No,HR,Manager
+56,11,3,4,11927,13,28,29,No,HR,Manager
+46,11,2,3,17437,3,43,42,No,Sales,Sales Executive
+59,16,2,4,14530,12,42,43,No,HR,Manager
+43,11,4,4,10010,19,35,30,No,R&D,Analyst
+52,19,2,1,14207,16,48,43,No,R&D,Developer
+42,15,1,3,5989,6,49,52,No,R&D,Developer
+41,25,1,2,15040,3,36,35,No,R&D,Analyst
+30,23,3,1,12218,13,35,34,No,R&D,Analyst
+24,23,1,3,9471,2,49,46,No,R&D,Analyst
+53,16,4,1,5863,4,31,30,No,Sales,Sales Executive
+37,11,1,2,13693,15,22,19,No,HR,Manager
+18,22,1,2,4177,19,30,33,No,HR,Manager
+25,16,4,3,7760,3,33,36,No,R&D,Developer
+33,8,2,2,3011,1,37,37,Yes,Sales,Sales Executive
+31,4,2,1,19353,17,40,35,No,HR,Manager
+29,8,4,2,14556,18,40,41,No,R&D,Analyst
+40,4,3,1,14563,18,24,25,No,R&D,Developer
+32,24,1,1,17051,16,35,39,No,R&D,Analyst
+45,25,4,2,14022,13,39,43,No,R&D,Developer
+51,3,1,3,11234,18,24,22,No,HR,Manager
+19,3,3,4,19173,12,22,24,No,HR,Manager
+49,27,1,2,16178,11,31,31,No,R&D,Developer
+40,29,4,1,9570,5,20,18,No,HR,Manager
+39,18,1,1,3406,3,40,38,No,Sales,Sales Executive
+42,29,2,2,12206,18,48,44,No,R&D,Analyst
+39,26,3,3,7431,15,28,24,No,Sales,Sales Executive
+39,19,3,3,9542,12,48,46,No,R&D,Developer
+59,19,3,1,11906,3,28,27,No,HR,Manager
+23,21,4,1,7146,16,23,25,No,R&D,Analyst
+32,5,3,3,15046,0,22,22,No,R&D,Developer
+54,18,2,4,15611,17,36,34,No,HR,Manager
+50,28,4,2,16076,19,21,26,No,Sales,Sales Executive
+25,10,2,1,19524,16,43,44,No,R&D,Developer
+22,29,1,1,7882,14,20,22,No,HR,Manager
+56,22,1,3,17113,10,27,23,No,R&D,Analyst
+21,21,1,2,16645,12,32,33,No,HR,Manager
+23,6,1,3,9012,0,42,38,No,R&D,Analyst
+49,1,2,2,10151,16,34,30,No,Sales,Sales Executive
+47,5,4,2,6610,5,27,29,No,R&D,Analyst
+52,9,4,2,12884,3,31,27,No,Sales,Sales Executive
+57,12,3,1,9894,19,41,46,No,R&D,Analyst
+33,26,2,4,16467,15,31,34,No,Sales,Sales Executive
+30,14,1,3,19489,14,33,28,No,HR,Manager
+59,2,2,4,12873,14,34,37,No,R&D,Developer
+47,17,3,3,15289,5,34,29,No,R&D,Developer
+36,14,3,2,15208,14,28,32,No,R&D,Developer
+34,26,2,1,13828,13,38,42,No,R&D,Developer
+36,13,2,4,5137,10,45,41,No,HR,Manager
+45,27,2,1,4286,6,39,39,No,HR,Manager
+43,9,4,3,18710,8,48,48,No,HR,Manager
+54,26,1,1,14371,15,41,36,No,R&D,Developer
+43,25,2,1,18945,4,27,28,No,Sales,Sales Executive
+40,15,2,4,10052,19,40,42,No,Sales,Sales Executive
+26,25,2,2,6654,9,38,34,No,Sales,Sales Executive
+29,22,3,1,18600,17,25,27,No,R&D,Developer
+18,15,3,2,11636,2,39,42,No,HR,Manager
+18,24,4,3,9441,12,44,44,No,Sales,Sales Executive
+51,11,1,1,12667,10,48,47,No,Sales,Sales Executive
+49,16,4,4,15149,16,38,41,No,R&D,Developer
+42,29,1,3,4798,12,23,28,No,HR,Manager
+57,17,3,3,12600,5,42,45,No,HR,Manager
+18,26,3,4,8495,16,26,21,No,HR,Manager
+33,4,3,1,12900,12,47,52,No,Sales,Sales Executive
+56,1,4,1,16673,18,47,44,No,Sales,Sales Executive
+22,8,2,3,14130,18,23,26,No,R&D,Analyst
+39,17,2,1,18222,9,41,46,No,Sales,Sales Executive
+46,3,3,2,4300,2,31,27,Yes,R&D,Developer
+20,29,2,4,12435,13,32,30,No,HR,Manager
+29,20,2,2,7616,18,22,20,No,R&D,Developer
+43,15,4,1,19393,4,41,37,No,Sales,Sales Executive
+33,15,1,3,13617,4,31,28,No,R&D,Analyst
+54,24,3,4,8752,19,21,18,No,Sales,Sales Executive
+39,22,3,1,12852,16,43,38,No,R&D,Analyst
+46,14,4,1,9295,9,21,21,No,HR,Manager
+31,26,4,3,6225,4,46,48,No,R&D,Analyst
+45,28,2,3,4316,3,42,39,No,HR,Manager
+22,23,3,2,15337,5,28,27,No,Sales,Sales Executive
+47,14,1,4,9807,3,20,15,No,R&D,Developer
+22,24,4,4,6683,6,27,31,No,Sales,Sales Executive
+29,2,1,3,10227,6,42,43,No,HR,Manager
+33,13,1,2,6273,17,25,29,No,R&D,Developer
+43,26,3,4,3145,2,25,20,No,R&D,Developer
+43,14,3,3,8010,0,41,46,No,HR,Manager
+38,27,4,1,19035,3,44,47,No,Sales,Sales Executive
+56,24,3,4,6040,5,37,39,No,R&D,Developer
+53,19,3,2,12654,8,36,37,No,R&D,Analyst
+50,7,3,2,19866,13,48,52,No,Sales,Sales Executive
+47,3,1,2,17996,11,31,32,No,HR,Manager
+54,15,4,1,19336,19,25,24,No,HR,Manager
+40,23,2,4,11853,3,45,44,No,R&D,Developer
+27,14,1,4,14695,11,46,51,No,R&D,Analyst
+22,11,3,1,5852,9,27,26,No,R&D,Analyst
+53,15,1,4,19014,6,38,33,No,Sales,Sales Executive
+51,28,3,1,3987,2,47,49,Yes,Sales,Sales Executive
+48,13,3,1,10622,13,29,34,No,Sales,Sales Executive
+27,18,1,1,12160,9,20,15,No,R&D,Developer
+36,26,4,2,9652,15,44,42,No,Sales,Sales Executive
+49,6,3,4,10421,15,48,51,No,HR,Manager
+18,3,4,1,3769,9,32,35,No,R&D,Analyst
+22,19,2,4,17114,12,36,35,No,Sales,Sales Executive
+21,15,3,2,7358,5,22,20,No,Sales,Sales Executive
+33,25,4,1,14543,11,27,24,No,Sales,Sales Executive
+41,23,4,3,8699,8,33,30,No,R&D,Analyst
+33,5,2,2,4125,12,22,21,No,R&D,Developer
+19,28,4,3,13793,3,35,39,No,R&D,Developer
+45,10,4,4,9764,10,32,27,No,R&D,Developer
+49,7,2,4,15323,19,39,38,No,HR,Manager
+44,25,3,2,16031,17,43,43,No,R&D,Analyst
+37,17,4,4,17052,10,36,37,No,HR,Manager
+41,7,4,3,15640,3,32,35,No,HR,Manager
+29,22,4,1,10843,17,48,45,No,R&D,Analyst
+52,26,1,1,17210,0,25,21,No,Sales,Sales Executive
+50,12,2,1,19456,6,36,33,No,HR,Manager
+50,25,1,2,13106,5,33,36,No,Sales,Sales Executive
+54,17,2,4,8189,14,36,37,No,R&D,Analyst
+29,13,3,3,5472,17,49,52,No,Sales,Sales Executive
+20,20,3,4,9704,10,27,23,No,R&D,Analyst
+18,25,4,4,6713,19,30,29,No,Sales,Sales Executive
+50,4,2,4,8051,14,39,37,No,R&D,Analyst
+57,10,3,1,13756,15,47,43,No,HR,Manager
+27,3,2,3,5475,6,20,23,No,R&D,Analyst
+46,9,3,3,6610,9,45,48,No,HR,Manager
+30,13,1,4,7255,11,26,26,No,R&D,Developer
+29,18,3,1,17484,13,40,45,No,Sales,Sales Executive
+48,15,1,1,4735,4,40,40,No,R&D,Developer
+19,4,3,3,11258,17,36,38,No,Sales,Sales Executive
+52,15,4,1,10979,4,49,49,No,Sales,Sales Executive
+40,22,1,1,5428,2,29,24,Yes,Sales,Sales Executive
+34,2,3,1,15345,4,30,28,No,R&D,Analyst
+43,15,4,2,10426,16,41,42,No,R&D,Developer
+25,8,1,4,11533,18,49,45,No,Sales,Sales Executive
+46,8,4,3,8249,18,28,31,No,Sales,Sales Executive
+43,17,2,3,12686,11,28,30,No,Sales,Sales Executive
+27,12,2,2,17109,8,43,45,No,Sales,Sales Executive
+43,19,1,4,3661,0,24,25,No,R&D,Analyst
+51,10,3,3,15075,17,36,34,No,R&D,Developer
+58,9,1,1,17788,3,28,24,No,HR,Manager
+24,5,4,3,13060,9,36,33,No,R&D,Analyst
+21,6,3,1,18836,6,43,43,No,Sales,Sales Executive
+28,20,2,2,13526,0,40,39,No,R&D,Developer
+46,26,3,1,6374,16,38,40,No,R&D,Developer
+53,2,2,3,3207,1,46,46,No,R&D,Analyst
+42,27,3,3,5665,10,26,26,No,R&D,Analyst
+38,24,3,3,3632,8,42,37,No,HR,Manager
+53,27,3,2,6083,6,28,26,No,Sales,Sales Executive
+27,13,4,2,16711,16,26,25,No,HR,Manager
+54,6,4,4,13123,16,32,37,No,HR,Manager
+26,5,1,3,10123,1,30,27,No,Sales,Sales Executive
+41,25,1,1,13754,5,33,36,No,R&D,Analyst
+52,1,2,2,4679,13,38,33,No,R&D,Developer
+52,21,4,3,18901,5,30,30,No,R&D,Developer
+53,22,2,3,3236,1,32,32,No,R&D,Developer
+35,21,1,2,10446,0,33,37,No,R&D,Analyst
+56,6,2,4,7443,9,32,31,No,R&D,Analyst
+49,6,1,2,18463,4,20,19,No,HR,Manager
+41,23,4,2,11555,1,27,31,No,HR,Manager
+40,16,3,1,19669,15,31,30,No,HR,Manager
+49,4,4,1,3148,1,38,38,Yes,R&D,Analyst

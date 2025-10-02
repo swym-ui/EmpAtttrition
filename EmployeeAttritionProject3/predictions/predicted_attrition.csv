@@ -1,0 +1,501 @@
+Name,Attrition,Age,DistanceFromHome,Education,JobSatisfaction,MonthlyIncome,YearsAtCompany,TasksCompletedLastMonth,TasksCompletedNextMonth,Department,JobRole
+Jennifer Banks,No,51,8,4,2,17785,12,42,39,HR,Sales Executive
+Brian Fitzgerald,Yes,41,4,4,3,6079,1,27,25,Sales,Manager
+Mr. Justin Green III,No,55,24,1,2,6660,30,42,45,Sales,Sales Executive
+Zachary Mitchell,Yes,55,26,1,2,19353,19,30,28,R&D,Developer
+Katherine Martinez,Yes,48,21,5,2,7619,28,28,31,R&D,Analyst
+Jodi Roach,Yes,43,11,2,2,14187,2,28,27,Sales,Sales Executive
+Brandon Fleming,Yes,36,10,1,2,13665,3,16,21,HR,Sales Executive
+Emma Reed,Yes,51,4,2,2,9020,19,42,42,HR,Analyst
+Joshua Vance,Yes,55,19,1,1,14067,20,39,41,HR,Manager
+Michelle Ho,Yes,31,21,1,3,4254,2,17,17,R&D,Sales Executive
+Rebecca Hicks,Yes,42,10,5,2,9993,14,29,28,R&D,Analyst
+Curtis Taylor,No,31,17,1,3,19051,14,32,34,R&D,Developer
+Allison Spencer,Yes,35,6,3,4,16642,13,39,43,R&D,Sales Executive
+Robert Arnold,No,31,29,4,1,19175,2,49,53,R&D,Analyst
+Angelica Parker,No,28,11,3,3,3225,26,34,38,HR,Manager
+Dr. Kelly Hammond DVM,No,58,6,1,2,8695,29,40,39,HR,Developer
+William Day,Yes,54,15,3,3,4696,9,18,14,Sales,Analyst
+Michael Cooper,Yes,59,30,5,4,14565,12,15,15,Sales,Manager
+Penny Bowman,Yes,23,12,5,2,8524,15,29,26,Sales,Sales Executive
+Vincent Reynolds,No,28,12,3,1,6242,8,31,34,Sales,Developer
+Amy Martinez,Yes,47,22,2,1,16693,7,30,27,Sales,Manager
+Christopher Morris,No,45,4,1,4,11799,18,34,29,R&D,Manager
+Hannah Everett,No,42,17,5,4,3432,13,34,38,HR,Sales Executive
+Sarah King,Yes,41,1,4,3,10582,14,25,29,Sales,Analyst
+Krista Martinez,No,59,8,1,1,10249,23,16,14,R&D,Developer
+Joseph Shaw,Yes,54,18,1,1,8272,4,19,19,R&D,Sales Executive
+Todd Moore,Yes,46,25,3,2,8254,13,41,46,Sales,Sales Executive
+Michelle Jacobs,No,56,14,2,2,3360,13,30,34,Sales,Sales Executive
+Kristy Bryan,Yes,37,3,2,1,15046,30,33,28,Sales,Developer
+Angel May,No,23,10,4,4,7794,18,35,38,Sales,Analyst
+Marilyn Wang,No,56,21,4,1,11905,25,21,21,R&D,Sales Executive
+Mark Jimenez,No,56,18,1,4,7121,24,47,44,Sales,Sales Executive
+Donna Frye,Yes,32,10,5,3,11251,13,42,42,R&D,Analyst
+Dr. Michael Evans,No,41,13,5,2,18654,19,17,15,R&D,Analyst
+Anthony Gonzales,No,55,22,1,2,4815,27,40,35,Sales,Analyst
+Mr. Lawrence Edwards,Yes,31,23,1,3,11173,26,31,32,R&D,Manager
+Morgan Valencia,Yes,37,2,1,1,10151,29,36,39,Sales,Developer
+Bianca Wood,No,48,23,2,2,3275,1,17,14,HR,Analyst
+Emma Owens,No,58,5,1,1,7576,23,27,22,R&D,Sales Executive
+David Davis,Yes,59,29,3,4,18988,29,22,17,Sales,Sales Executive
+James Gilbert,No,55,27,4,3,17417,4,16,16,R&D,Analyst
+Sean Moore,Yes,38,26,2,3,14253,22,43,43,HR,Manager
+Kenneth Edwards,Yes,27,18,1,3,9983,19,36,37,R&D,Sales Executive
+Kathleen Robertson,Yes,36,15,1,2,5475,18,33,31,HR,Developer
+Mr. Alexander Landry MD,Yes,41,9,3,4,5314,5,32,35,Sales,Manager
+Cindy Gomez,Yes,53,14,1,1,15297,18,15,17,R&D,Sales Executive
+Johnny Khan,No,28,29,3,2,3843,23,26,29,HR,Manager
+Julie Herrera,Yes,37,4,3,2,19984,14,39,43,R&D,Sales Executive
+Jessica Khan,Yes,32,5,3,2,18295,26,33,33,HR,Analyst
+Pamela Diaz,No,50,15,4,3,10043,5,39,34,Sales,Manager
+Kelly Lee,Yes,35,24,1,4,5674,28,24,22,Sales,Manager
+Angel Gordon,Yes,46,9,4,1,15982,9,41,42,Sales,Sales Executive
+Diana Hays,No,36,14,5,4,19226,17,34,29,Sales,Analyst
+Barbara Hester,No,47,23,1,3,4333,10,21,18,R&D,Manager
+Robert Morgan,No,33,22,5,2,3924,28,38,43,HR,Developer
+Nicole Gonzalez,No,45,18,4,4,17541,1,37,35,HR,Manager
+Kathryn Williams,Yes,45,22,5,1,16965,4,39,40,Sales,Sales Executive
+Gary Wells,No,47,1,4,4,18551,17,36,35,HR,Manager
+Larry Robertson,Yes,50,27,3,3,16894,14,48,48,HR,Developer
+Louis Martin,No,24,4,1,4,19662,2,25,28,HR,Manager
+Nancy Evans MD,No,48,23,5,1,13273,7,48,49,R&D,Analyst
+Kim Erickson,Yes,36,13,1,2,9640,4,34,37,R&D,Developer
+Robert Richardson,No,59,11,2,4,4165,3,33,29,HR,Sales Executive
+Veronica Silva,Yes,42,14,2,4,5163,5,41,38,R&D,Developer
+Molly Watts,No,30,23,4,2,12610,1,41,40,HR,Sales Executive
+John Coffey,No,51,29,5,3,3029,28,42,42,Sales,Manager
+Paula Lane,No,38,23,3,4,5368,9,43,38,R&D,Analyst
+Lauren Jackson,No,38,29,4,1,11650,19,26,27,HR,Manager
+Lisa Randall,No,25,19,2,3,16753,18,37,38,HR,Developer
+Michael Johnson,Yes,25,2,4,1,14250,19,46,48,R&D,Sales Executive
+Ashley Smith,Yes,58,6,3,1,4397,27,39,35,R&D,Manager
+Christian Vaughn,No,51,21,1,3,3140,6,38,34,R&D,Analyst
+Reginald Knapp,Yes,33,1,5,3,13980,5,33,33,R&D,Analyst
+Nancy Brown,No,23,9,4,1,17466,18,21,19,Sales,Sales Executive
+Daniel Nguyen,Yes,22,29,4,4,9273,24,24,27,HR,Analyst
+Kelly Edwards,Yes,45,27,3,2,5375,16,30,31,HR,Developer
+Thomas Peterson,No,30,22,2,1,16819,12,17,18,HR,Analyst
+Raymond Le,No,31,13,3,2,6953,26,33,33,R&D,Analyst
+Melissa Bishop,Yes,37,6,3,2,7816,22,35,30,Sales,Manager
+David Grant,No,23,16,3,2,12981,24,46,46,Sales,Sales Executive
+William Evans,No,50,26,3,1,13285,17,44,44,HR,Developer
+Daniel Bush,Yes,39,13,1,3,6083,4,19,20,R&D,Analyst
+Gregory Peck,No,44,9,5,3,19682,17,37,41,HR,Manager
+Denise Martinez,Yes,50,23,4,2,3805,8,28,33,Sales,Analyst
+Jamie Baird,No,28,14,5,4,17892,12,25,26,Sales,Analyst
+Tina Ballard,Yes,43,28,4,4,7618,19,29,27,R&D,Analyst
+Dwayne Klein,Yes,34,5,3,3,5461,27,37,42,HR,Developer
+Jeremy Scott,Yes,42,22,2,3,15210,11,20,25,R&D,Developer
+Dale Ryan,Yes,50,26,3,1,4505,6,26,22,Sales,Sales Executive
+Melissa Taylor,Yes,22,14,1,4,8682,30,18,21,R&D,Analyst
+Laurie Sanchez,No,36,11,5,2,3170,8,27,22,HR,Developer
+Kiara Little,Yes,40,19,4,3,11619,2,25,20,HR,Analyst
+Jason Love,No,53,14,3,2,19232,24,44,44,Sales,Sales Executive
+Randy Smith,Yes,39,24,3,3,10678,5,15,16,R&D,Sales Executive
+Tanya Russell,No,56,9,5,3,8082,1,16,18,R&D,Developer
+Sherry Woods,Yes,48,4,1,4,3621,18,27,22,Sales,Developer
+Victor Morris,No,31,14,4,1,9910,29,21,21,HR,Developer
+Susan Davis,Yes,46,22,4,1,10369,9,20,22,HR,Analyst
+Kimberly Sharp,No,57,22,2,3,3861,3,20,22,HR,Sales Executive
+Susan Thompson,No,34,6,3,3,10685,27,15,16,R&D,Analyst
+Casey Gillespie,Yes,43,13,3,4,16842,14,31,30,HR,Sales Executive
+Jennifer Simpson DVM,Yes,49,2,5,2,8371,19,38,36,R&D,Manager
+Tammy Mcdowell,No,22,19,3,1,4026,18,41,39,HR,Sales Executive
+Keith Rodriguez,Yes,39,21,1,1,16463,13,41,37,R&D,Developer
+Mrs. Virginia Daniels,Yes,44,30,5,2,18967,11,30,28,Sales,Developer
+Todd Rosales MD,Yes,41,13,1,1,4745,4,49,51,R&D,Analyst
+Brian Martin,No,45,6,4,1,19521,30,42,40,HR,Manager
+David Lopez,Yes,26,30,3,3,8338,16,33,38,Sales,Developer
+Rachel Bradley,No,23,12,4,2,11638,23,47,46,R&D,Developer
+Casey Chase,No,50,7,2,4,12489,16,42,41,HR,Developer
+Samantha Robertson,Yes,23,26,3,2,3990,30,39,35,HR,Analyst
+Michael Lopez,Yes,44,3,1,4,11068,9,23,21,HR,Developer
+Franklin Wright,Yes,53,26,1,2,8905,6,15,15,HR,Analyst
+David Molina,No,40,17,1,2,12481,13,35,32,HR,Manager
+Elizabeth Sharp,No,54,23,3,3,6006,24,24,26,HR,Manager
+Matthew Schwartz,Yes,29,6,1,1,13244,25,24,27,R&D,Manager
+Bryan Parker,Yes,31,29,4,2,8837,6,49,54,HR,Analyst
+Jonathan Jacobson,Yes,37,4,1,2,16566,19,24,24,HR,Manager
+Emily Wilson,Yes,35,14,4,4,4272,18,39,35,Sales,Developer
+Elizabeth Mendez,Yes,57,22,5,1,10303,7,20,16,Sales,Sales Executive
+Casey Hernandez,Yes,22,1,5,3,5853,3,20,19,Sales,Developer
+Lisa Perry,No,30,11,4,1,19176,5,42,37,R&D,Analyst
+Kaitlin Medina,Yes,22,20,5,4,16312,26,15,16,HR,Sales Executive
+Colleen Wright,Yes,38,29,5,3,7861,11,21,23,R&D,Sales Executive
+Shelley Miller,Yes,59,26,2,3,5105,9,46,43,R&D,Sales Executive
+Michael Miller,No,38,30,2,3,19333,28,29,26,R&D,Analyst
+Amy Kelley,No,47,8,4,3,9161,23,27,24,Sales,Developer
+Laura Hernandez,No,29,13,5,4,16983,11,20,24,Sales,Developer
+Joseph Wilson,Yes,49,5,5,1,8768,7,30,25,Sales,Analyst
+Kevin Davis,Yes,28,5,4,1,7667,24,43,44,HR,Analyst
+Rhonda Chavez,Yes,49,23,2,2,12256,1,47,42,HR,Manager
+Joyce Brown,Yes,44,7,2,4,10350,26,33,35,Sales,Developer
+Robert Cummings,No,53,4,1,4,6857,20,33,28,R&D,Sales Executive
+Robert Reese,Yes,25,21,3,4,7236,18,37,33,Sales,Developer
+Amber Cooper,No,23,19,5,3,3279,5,24,25,HR,Manager
+Zachary Michael,Yes,23,29,1,4,5917,29,32,31,Sales,Analyst
+Timothy Johnson,Yes,26,14,5,3,6879,12,21,19,R&D,Developer
+Randy Cannon,No,44,30,5,3,5323,16,44,43,HR,Sales Executive
+Maria Fisher,No,40,24,4,1,7140,20,46,41,R&D,Analyst
+Janet Kane DVM,No,25,27,5,3,17297,23,45,48,Sales,Developer
+Michael Stanley,Yes,50,21,5,3,7489,26,31,30,HR,Analyst
+Martha Bailey,Yes,57,29,2,1,17150,7,36,38,Sales,Manager
+Joshua Rice,No,42,19,2,4,14887,27,20,18,Sales,Manager
+Courtney Smith,Yes,49,2,3,2,6369,9,37,39,Sales,Sales Executive
+Edwin Nunez,Yes,50,20,2,2,12730,9,32,36,R&D,Manager
+Kim Morrow,Yes,49,14,4,2,11225,16,31,28,R&D,Manager
+Gregory Hill,No,46,11,2,3,18578,4,48,53,HR,Developer
+Molly Rodriguez,No,31,9,1,1,13822,27,39,40,Sales,Manager
+Jennifer Miranda,Yes,43,13,5,2,11694,10,45,45,HR,Developer
+Alexis Harris,No,27,23,5,4,3257,30,23,22,HR,Sales Executive
+Andrew Harper,No,42,8,5,1,4068,14,47,45,HR,Sales Executive
+Amber Yang,No,48,16,3,2,8940,26,20,21,Sales,Sales Executive
+David Robinson,No,25,9,3,1,7419,7,35,31,Sales,Sales Executive
+Amy Gordon,No,24,18,5,2,5399,22,49,44,R&D,Manager
+Robert Dennis,Yes,49,28,5,1,3234,4,21,21,HR,Sales Executive
+Kyle Chambers,Yes,46,10,5,1,10706,19,47,44,HR,Developer
+Eric Thomas,No,44,27,5,3,17569,27,18,20,Sales,Analyst
+Connie Turner,Yes,38,27,3,3,9905,3,22,17,Sales,Analyst
+Travis Hobbs,No,55,29,5,4,3742,27,48,46,HR,Sales Executive
+Lori Simmons,Yes,38,9,4,4,19951,6,30,34,Sales,Developer
+William David DDS,No,55,9,4,4,19207,28,37,42,Sales,Sales Executive
+Emma Butler,No,49,7,3,4,12417,21,44,40,HR,Manager
+James Webster,No,45,26,4,2,14116,7,40,38,Sales,Sales Executive
+Samuel Turner,Yes,49,23,5,4,11631,3,19,23,Sales,Sales Executive
+Renee Melendez,No,40,23,2,3,17094,22,38,38,R&D,Developer
+Tracy Grant,Yes,48,28,3,3,3824,1,33,37,R&D,Manager
+David Harris,Yes,36,29,3,4,6940,20,17,22,Sales,Developer
+Tammy Boone,No,25,19,4,1,12728,28,44,40,R&D,Developer
+Nathaniel Lee,Yes,38,7,3,3,13923,8,35,31,HR,Developer
+Michael Morrison,Yes,51,25,4,1,19823,27,47,47,Sales,Manager
+Chelsea Gill,No,58,27,1,4,7516,17,23,20,R&D,Analyst
+Kristin Mendoza,No,49,4,5,2,13396,28,15,13,R&D,Analyst
+Felicia Krueger,Yes,55,22,1,2,7143,29,15,20,R&D,Developer
+Timothy Hayden,Yes,55,26,2,4,10109,4,41,39,HR,Analyst
+Zachary Mendoza,Yes,41,11,3,4,10206,9,46,46,R&D,Sales Executive
+Larry Harris,No,44,13,3,1,5662,19,35,30,R&D,Analyst
+Kristen Rowe,Yes,35,23,1,3,11131,6,33,28,Sales,Analyst
+Joseph Howard,No,22,8,2,3,10624,23,21,24,HR,Manager
+Jose Crawford,Yes,30,5,3,3,18093,17,31,26,Sales,Developer
+William Harrison,No,27,20,5,1,10981,30,27,23,HR,Analyst
+Suzanne Wood,Yes,29,3,1,4,4597,16,43,41,Sales,Analyst
+Justin Walker,No,56,21,3,4,18512,6,44,47,HR,Developer
+Dean Donovan,Yes,45,16,3,4,16745,20,18,21,Sales,Sales Executive
+Jennifer Hernandez,No,39,8,3,1,16947,19,48,49,Sales,Analyst
+James Whitaker,Yes,24,7,4,4,8973,21,34,29,HR,Developer
+Mr. Michael Scott PhD,Yes,27,17,5,4,17194,29,26,29,Sales,Sales Executive
+Maria Henry,No,48,6,2,4,7347,1,36,36,R&D,Developer
+Robert Jackson,Yes,29,16,1,1,8256,3,34,30,Sales,Developer
+Katherine Stark,Yes,27,29,3,4,13527,25,31,36,HR,Manager
+Maria Brown,No,44,20,4,2,15823,24,30,30,Sales,Manager
+Ryan Landry,Yes,31,19,3,2,16467,28,33,37,HR,Developer
+Pamela Gutierrez,Yes,51,14,2,4,16312,12,33,28,HR,Manager
+Crystal Mann,Yes,30,23,2,1,10442,19,30,35,HR,Developer
+Jonathan Brooks,Yes,43,2,5,1,19446,14,25,27,R&D,Sales Executive
+Mary Jensen,No,57,13,4,1,7720,23,49,44,HR,Manager
+Mr. Aaron Arnold,Yes,38,25,2,1,4104,2,45,44,R&D,Sales Executive
+Joseph Hill,Yes,38,22,4,4,3161,18,26,28,HR,Manager
+Alicia Li,Yes,30,17,5,1,11494,12,33,34,Sales,Sales Executive
+Renee Browning,No,53,14,2,3,13378,19,26,24,Sales,Sales Executive
+Brent Hernandez,No,58,1,2,1,14961,6,28,25,HR,Analyst
+Joseph Ochoa,Yes,25,22,4,1,4167,13,28,23,HR,Developer
+James Watson,Yes,25,30,1,2,7874,13,33,38,Sales,Analyst
+Karl Branch,No,49,18,5,1,18656,20,46,43,Sales,Manager
+Michael Abbott,No,49,7,1,2,10167,11,42,41,HR,Manager
+Shannon Malone,No,49,26,5,4,19405,14,24,27,Sales,Analyst
+James Tran,Yes,28,5,2,2,10827,12,27,26,R&D,Analyst
+Adam Jackson,Yes,33,12,4,1,7928,27,15,14,HR,Manager
+Mr. Richard Knight PhD,Yes,26,23,5,4,15102,13,38,41,Sales,Sales Executive
+Joseph Williams,No,42,15,2,3,17270,7,43,46,HR,Analyst
+Sean Clay,No,23,30,3,1,7387,20,33,28,R&D,Developer
+Anthony Jones,Yes,41,1,1,3,5038,14,34,36,Sales,Analyst
+Stephanie Elliott,No,51,17,3,3,16352,24,22,19,Sales,Sales Executive
+Timothy Edwards,Yes,48,29,2,4,9861,1,28,33,R&D,Manager
+Laurie Goodwin,Yes,59,28,3,4,18777,6,41,43,HR,Sales Executive
+Jennifer Jones,Yes,47,22,5,4,12833,9,43,45,R&D,Analyst
+David Davenport,Yes,48,11,2,4,8580,4,21,22,Sales,Analyst
+Steven Rivera,Yes,38,1,5,3,6875,19,37,36,HR,Manager
+Brenda Hinton,Yes,36,10,5,4,13085,29,18,22,HR,Analyst
+Kathryn Mccann,Yes,46,4,5,1,8170,18,18,21,R&D,Manager
+Jeffrey Roberson,Yes,35,4,5,2,18863,18,26,31,R&D,Developer
+Randy Friedman,Yes,42,13,4,4,8324,9,30,27,Sales,Manager
+Raymond Johnson,Yes,57,18,5,2,6034,0,45,49,R&D,Analyst
+Willie Henry,No,28,22,4,2,6746,26,44,41,Sales,Analyst
+Todd Reynolds,Yes,30,21,4,3,5672,3,23,25,HR,Analyst
+Mary Miller,Yes,26,17,1,4,16438,19,42,45,R&D,Developer
+Rebecca Marquez,Yes,42,6,3,1,10794,15,16,18,HR,Manager
+Christian Dawson,Yes,30,13,2,4,4530,19,33,32,R&D,Analyst
+Nancy Stewart,No,22,26,4,1,7308,14,40,44,R&D,Sales Executive
+Aaron Parker,Yes,37,26,2,2,15941,30,20,20,HR,Sales Executive
+Derrick Anderson,Yes,32,12,1,4,3772,4,23,28,HR,Manager
+Jerry Peters,Yes,35,22,4,2,5662,15,21,19,HR,Sales Executive
+Alexander Gomez,Yes,46,9,5,3,4152,17,23,20,Sales,Developer
+Kyle Nguyen,Yes,53,21,5,1,8849,28,48,48,HR,Analyst
+Edgar Hughes,No,50,10,3,2,6828,21,40,40,HR,Manager
+Steven Stein,No,50,25,2,1,12839,11,38,37,HR,Manager
+Laura Jackson,No,25,23,2,1,14501,23,27,29,R&D,Manager
+Charles Turner,No,40,11,1,3,15748,9,36,32,HR,Developer
+Arthur Hamilton MD,Yes,42,14,5,2,14668,8,18,23,R&D,Manager
+Mr. David Wright,Yes,58,5,4,1,14243,3,43,46,Sales,Developer
+Linda Gonzalez,Yes,41,26,1,4,18246,14,28,29,R&D,Sales Executive
+Eric Rush,No,49,9,4,1,19868,24,39,41,HR,Analyst
+Manuel Brock,No,37,30,4,4,12508,29,15,18,HR,Sales Executive
+George Ochoa,No,44,25,5,1,15176,17,28,33,R&D,Analyst
+Valerie Taylor,Yes,34,7,2,2,7077,2,44,46,HR,Sales Executive
+Travis Harris,No,22,2,4,1,14962,29,42,43,R&D,Analyst
+Vincent Novak,Yes,46,22,4,4,15069,24,19,15,R&D,Developer
+Michael Henry,Yes,45,12,3,2,10823,18,46,43,Sales,Developer
+Dana Bennett,Yes,43,29,3,3,4949,28,23,21,R&D,Analyst
+Jenna Wilson,Yes,23,20,2,4,12760,10,17,22,Sales,Manager
+Leslie Gardner,Yes,51,26,3,4,9986,1,16,15,HR,Analyst
+Krista Benton,No,29,13,2,2,4695,30,46,49,R&D,Analyst
+Michael Gonzales,Yes,54,30,5,2,18841,23,36,35,HR,Analyst
+Michael Fuentes,Yes,46,28,5,1,18876,18,19,14,HR,Developer
+Jennifer Porter,No,39,19,4,3,3251,17,41,42,R&D,Analyst
+Dana Hopkins,Yes,36,11,4,4,8714,22,38,34,R&D,Sales Executive
+Rachel Jones,Yes,35,9,1,3,8619,3,22,18,R&D,Sales Executive
+Karen Morales DDS,Yes,40,14,5,1,19135,26,43,46,Sales,Manager
+Melissa Stephens,No,29,16,4,1,16045,11,36,31,R&D,Developer
+Heather Woodard,Yes,54,20,3,1,14823,1,45,46,Sales,Sales Executive
+Margaret Miller,Yes,58,4,3,4,10013,13,44,47,Sales,Analyst
+Mary Kelly,No,57,8,5,4,10270,17,42,38,R&D,Analyst
+Amanda Terrell,No,59,9,1,1,6946,11,15,18,Sales,Analyst
+Jennifer Goodwin,Yes,58,22,2,3,4710,7,31,28,Sales,Developer
+Jessica Smith,Yes,39,10,1,4,15367,18,40,36,Sales,Sales Executive
+Jorge Stone,Yes,46,6,3,1,8816,21,42,37,R&D,Developer
+Laura Griffin,Yes,59,29,2,3,18907,29,31,35,HR,Analyst
+Raymond Chapman,No,54,15,1,2,9152,13,15,11,HR,Developer
+Haley Johnson,Yes,33,26,2,1,5522,18,44,46,HR,Manager
+Jason Nixon,Yes,58,15,5,2,9782,22,49,51,Sales,Sales Executive
+Todd Thomas,No,43,15,4,2,5792,28,17,20,HR,Sales Executive
+Jesse Clark,No,22,5,2,3,11849,27,34,31,HR,Developer
+Mr. Jeffrey Horton,Yes,36,12,4,1,10834,16,20,18,R&D,Analyst
+Eric Patrick,Yes,47,12,4,1,11034,8,21,18,Sales,Manager
+Samuel Wong,No,47,30,1,4,12174,17,35,33,Sales,Manager
+Carly Riggs,Yes,47,18,4,3,16080,5,40,44,HR,Sales Executive
+Christopher Moore,Yes,41,6,1,3,11544,19,38,40,HR,Analyst
+Tina Hall,Yes,27,27,4,4,11662,22,46,43,R&D,Manager
+Cody Davidson,Yes,44,12,4,4,8372,11,47,45,R&D,Developer
+Allen Mendez,Yes,48,24,2,2,15535,24,33,34,R&D,Developer
+Kevin Price,Yes,42,19,3,2,7550,18,21,25,R&D,Manager
+Christine Goodwin,Yes,46,18,3,2,5271,9,34,35,HR,Analyst
+Amy Garcia,No,59,11,3,1,6143,19,26,22,HR,Sales Executive
+Chelsea Nguyen,No,44,20,3,2,15475,18,19,14,HR,Manager
+Dennis Huffman,Yes,30,8,2,3,3141,15,24,20,R&D,Developer
+Margaret Harper,No,54,14,1,4,12137,5,40,37,R&D,Sales Executive
+Laurie Bailey,Yes,28,24,1,3,5476,28,46,41,HR,Sales Executive
+Lisa Cervantes,Yes,27,27,1,3,7427,25,31,35,R&D,Manager
+Elizabeth Mendez,Yes,41,6,2,2,18958,8,28,23,R&D,Manager
+Cesar Wilson,Yes,52,4,1,2,13397,11,16,12,Sales,Manager
+Clayton Steele,No,22,11,4,3,8955,4,36,32,HR,Developer
+Jennifer Taylor,Yes,38,5,2,4,9453,2,49,47,Sales,Manager
+Cody Reid,Yes,37,25,5,1,15575,3,30,26,Sales,Sales Executive
+Maria Cooke,Yes,47,4,4,4,6009,28,41,41,Sales,Developer
+Katherine Taylor,No,30,17,1,4,5092,13,34,31,R&D,Manager
+Jerry Brown,No,28,6,5,4,13703,2,44,40,Sales,Manager
+Adam Taylor,No,33,10,5,2,11414,15,32,32,R&D,Analyst
+Tracey Wagner,Yes,36,26,2,4,6259,22,41,40,HR,Sales Executive
+Michael Perry PhD,Yes,57,22,5,1,16288,19,21,21,Sales,Developer
+Bradley Johnson DDS,Yes,44,21,5,3,14890,29,47,52,Sales,Analyst
+Donald Medina,Yes,50,25,5,3,10216,7,27,23,HR,Manager
+Jim Newton,Yes,48,12,2,3,14195,2,35,38,R&D,Sales Executive
+Krista Wilson,Yes,28,24,2,4,7092,16,27,22,HR,Sales Executive
+Reginald Morrow,Yes,38,24,3,3,7002,11,21,18,Sales,Developer
+Rodney Williams,Yes,31,30,1,4,6941,12,42,46,R&D,Developer
+Kimberly Fritz,Yes,52,22,1,4,15335,22,17,22,HR,Developer
+Ronald Potter,Yes,32,14,3,4,6642,28,46,47,Sales,Sales Executive
+Zachary Cole,No,36,18,4,4,3286,27,20,22,R&D,Manager
+Robert Gonzales,No,59,6,5,1,17013,30,45,44,Sales,Developer
+Patricia Young PhD,Yes,55,19,4,1,12708,3,15,16,HR,Analyst
+Heather Page,Yes,49,23,4,1,8778,3,41,38,Sales,Analyst
+Carol Taylor,Yes,35,16,5,4,6815,9,37,39,Sales,Analyst
+Daniel Brown,Yes,53,15,5,2,6083,6,34,37,HR,Analyst
+Douglas Ryan,Yes,55,29,2,4,6690,5,42,42,HR,Developer
+Michael Roberts,No,49,24,4,1,18253,24,21,19,HR,Developer
+Scott Duke,Yes,29,18,3,4,11435,28,39,43,HR,Analyst
+Anna Estes,Yes,35,17,2,4,8524,12,40,39,R&D,Developer
+Tamara Riddle,Yes,31,28,2,1,16318,23,28,27,Sales,Developer
+Beth Cline,Yes,46,10,5,3,14765,16,29,32,HR,Manager
+Michael Poole,Yes,23,20,2,3,11863,16,45,40,R&D,Manager
+Megan Burns,No,53,29,5,3,8900,30,35,35,R&D,Sales Executive
+Debra Perry,No,22,12,4,4,14429,5,36,35,HR,Manager
+Mark Beard,Yes,31,1,4,3,10965,17,30,26,Sales,Sales Executive
+Jose Ramirez,Yes,25,14,5,1,6511,21,38,42,HR,Developer
+Jackie Clements,Yes,53,17,4,3,16124,30,25,21,R&D,Sales Executive
+Aaron Schroeder,Yes,53,14,1,2,7566,7,46,45,Sales,Developer
+Monica Ellis,Yes,51,20,4,1,18152,27,31,35,R&D,Developer
+Heather Brown,No,50,29,4,2,8688,15,31,31,Sales,Manager
+Claudia Jordan,Yes,50,18,4,3,7340,10,32,33,R&D,Analyst
+Derrick Clayton,Yes,41,24,1,4,16004,19,21,16,HR,Manager
+Kenneth Knight,Yes,26,26,3,4,19062,23,19,15,R&D,Manager
+Mr. Michael Williams,Yes,28,27,4,4,7659,17,47,42,R&D,Sales Executive
+Richard Stevens,No,42,10,2,4,15329,20,18,19,HR,Developer
+Scott Alexander,Yes,50,26,3,2,8132,0,31,29,R&D,Manager
+Tyler Harris,Yes,47,17,5,4,13274,18,49,46,R&D,Sales Executive
+Bonnie Santos,Yes,39,18,2,2,7802,12,44,41,R&D,Manager
+Timothy Hill,Yes,22,2,4,1,3971,18,24,20,R&D,Sales Executive
+Danielle Watson,Yes,34,13,2,3,8386,1,16,20,Sales,Analyst
+Carol Sanders,Yes,54,5,3,4,5553,12,28,25,R&D,Analyst
+Michael Young,No,44,11,5,3,10707,7,44,47,R&D,Developer
+Michele Smith,Yes,56,7,5,3,13022,11,21,26,R&D,Sales Executive
+Casey Perez,Yes,31,1,4,4,3243,10,32,29,HR,Sales Executive
+Alexandra Dominguez,No,52,6,2,4,15105,2,19,16,HR,Developer
+Virginia Henderson,Yes,53,10,4,2,8933,5,48,45,R&D,Manager
+Benjamin Reyes,No,24,13,5,1,18453,3,33,34,Sales,Sales Executive
+Ashley Edwards,Yes,36,9,4,2,4766,3,22,18,Sales,Developer
+Breanna Ayala,No,56,17,2,1,12153,26,43,42,R&D,Sales Executive
+Brandi Haney,Yes,27,4,4,2,19314,18,33,35,HR,Manager
+Joseph Smith,No,34,19,5,2,12917,3,19,23,Sales,Analyst
+Jessica Bowen,Yes,34,14,5,4,16264,7,40,38,Sales,Developer
+Brittany Jenkins,No,45,19,3,4,7903,1,43,39,Sales,Manager
+Shannon Miller,No,57,11,5,2,13914,5,45,44,HR,Sales Executive
+Paul Lawrence,No,55,24,3,3,14268,12,27,31,R&D,Analyst
+Victor Edwards,No,52,14,5,1,9700,6,26,28,Sales,Manager
+Donald Miller,Yes,52,4,4,1,5821,4,35,31,R&D,Sales Executive
+Lindsay Lawson,No,30,27,4,1,7284,14,16,14,R&D,Sales Executive
+Melissa Abbott,Yes,36,28,2,4,10447,7,35,40,Sales,Manager
+Elizabeth Holmes,No,39,19,5,3,6612,21,29,30,Sales,Analyst
+Nicole Phillips,Yes,27,3,5,4,16715,23,18,22,Sales,Sales Executive
+Steven Blevins,No,59,13,1,3,4283,20,24,28,R&D,Developer
+Brian Porter MD,Yes,34,8,4,4,10072,4,26,24,HR,Analyst
+Vanessa Hatfield,Yes,26,6,1,4,17500,11,18,21,R&D,Developer
+Bonnie Valencia,No,57,11,4,1,15285,18,42,47,Sales,Analyst
+Holly Vega,Yes,47,11,4,4,14151,4,30,32,R&D,Manager
+Tiffany Townsend,Yes,59,23,3,3,15774,28,26,29,R&D,Sales Executive
+Austin Baker,No,23,14,4,3,11341,6,29,31,HR,Manager
+Antonio Mccormick,No,49,28,2,4,16291,23,49,53,Sales,Sales Executive
+Lori Mason,No,57,8,4,3,16916,25,30,29,Sales,Analyst
+Michael Miller,No,57,8,5,2,8466,1,36,31,R&D,Manager
+Lisa Ramirez,Yes,35,27,5,4,5126,22,19,24,R&D,Sales Executive
+Jorge Harris,Yes,22,30,1,3,5926,7,44,45,Sales,Sales Executive
+Kimberly Myers,Yes,37,14,2,1,19194,8,33,38,R&D,Developer
+Sandra Becker,No,27,4,2,1,4431,7,39,38,R&D,Manager
+Michael Blair,Yes,40,16,1,3,9896,5,38,41,R&D,Sales Executive
+Amy Miller,No,29,23,3,1,18006,15,43,42,R&D,Analyst
+Jesse Lynch,Yes,37,14,3,4,12652,16,16,15,Sales,Developer
+Patrick Yang,Yes,40,29,1,1,8034,9,27,25,HR,Developer
+Michael Miles,No,42,18,2,1,15772,21,18,21,HR,Analyst
+Troy Mills,Yes,57,21,4,2,16507,8,48,48,HR,Sales Executive
+Michelle Jackson,Yes,22,28,1,4,7744,9,16,21,Sales,Manager
+Richard Adams,Yes,35,8,1,4,10805,18,29,26,R&D,Developer
+Patricia Johnson,Yes,29,23,1,1,6828,6,18,18,Sales,Sales Executive
+Denise Brown,Yes,40,14,4,4,4055,18,29,26,Sales,Analyst
+Laura Jones,No,28,30,4,4,7855,24,16,21,Sales,Sales Executive
+Ian Porter,Yes,35,2,5,1,5119,20,23,25,HR,Manager
+Holly Scott,Yes,24,3,1,2,8262,8,46,44,HR,Developer
+Kenneth Sharp,No,42,19,3,3,13642,8,31,32,Sales,Manager
+Jordan Williams,No,34,20,3,1,13736,16,46,48,HR,Manager
+Dana Ruiz,Yes,23,29,5,2,18996,10,19,21,HR,Analyst
+Chris Velazquez,Yes,48,25,3,1,4583,17,28,23,Sales,Analyst
+Kristen Sloan,Yes,53,11,3,1,9690,19,24,19,Sales,Manager
+Jennifer Morris,Yes,36,20,1,1,8658,15,15,17,R&D,Developer
+Nathan Nelson,No,34,13,5,1,15777,25,47,50,R&D,Manager
+Jake Shaw,Yes,49,22,3,3,14907,15,28,28,Sales,Developer
+Cassie Brock,No,53,21,3,1,18183,23,44,42,Sales,Sales Executive
+Dr. Andrea Marshall,Yes,34,10,2,2,9192,26,20,25,HR,Manager
+Ryan Murphy,No,29,27,5,2,17658,5,34,30,R&D,Analyst
+Aimee Gonzalez,Yes,34,19,5,3,8764,4,39,44,R&D,Sales Executive
+Elizabeth Dean,No,27,25,1,1,9357,14,25,29,R&D,Developer
+Kevin Snyder,Yes,53,20,3,1,13739,30,24,26,HR,Developer
+Christie Mccullough,Yes,46,9,4,4,17823,8,20,23,HR,Analyst
+Danielle Smith,Yes,55,5,1,1,15303,23,18,21,HR,Developer
+David Reed,Yes,33,8,1,3,10073,24,25,27,Sales,Sales Executive
+Sherry Tapia,Yes,35,29,1,4,17287,13,34,33,Sales,Sales Executive
+Matthew Sweeney,No,27,6,3,2,13201,7,42,38,R&D,Analyst
+Ashley Moreno,No,45,4,1,1,12565,2,17,12,HR,Manager
+Johnathan Brown,Yes,24,25,3,4,13781,14,20,24,Sales,Sales Executive
+Michelle Davis DVM,No,54,9,1,2,12444,25,39,40,Sales,Analyst
+Kelly Haynes,No,48,23,5,1,3202,24,36,37,Sales,Sales Executive
+William Miller,No,30,18,5,2,17289,25,19,24,HR,Analyst
+Casey Wilkins,Yes,56,22,5,2,11760,8,35,32,R&D,Manager
+Keith Graham,No,58,14,5,1,15370,23,24,23,HR,Manager
+Cynthia Green,Yes,27,21,3,2,5386,17,30,26,Sales,Analyst
+Robert Haynes,Yes,55,21,2,4,11357,11,48,44,HR,Analyst
+Emily Nelson,No,24,11,3,1,13285,12,27,23,R&D,Sales Executive
+Dale Chan,Yes,33,2,1,3,8107,8,28,26,Sales,Analyst
+Brittney Martin,No,44,29,3,1,19229,27,23,27,R&D,Sales Executive
+Jason Herrera,Yes,23,24,2,3,12211,14,37,40,HR,Developer
+Christine Parker,No,36,10,2,4,8053,1,21,25,HR,Developer
+Bryan Moore,Yes,34,20,3,1,14686,12,25,30,HR,Sales Executive
+Samantha Terry,No,27,19,2,2,18821,22,37,37,Sales,Manager
+Russell Murphy,No,32,13,2,2,7052,23,33,29,HR,Sales Executive
+David Kelly,No,49,18,5,4,8639,27,37,33,HR,Analyst
+Megan Green,Yes,33,5,5,2,10453,22,45,46,HR,Sales Executive
+Amanda Sullivan MD,Yes,37,26,4,1,15823,10,44,45,Sales,Manager
+Danielle Murray,Yes,43,16,5,1,3064,10,20,17,Sales,Sales Executive
+Brenda Smith,Yes,42,20,3,2,7260,17,17,12,Sales,Manager
+Vickie Anderson,Yes,42,1,4,4,11665,2,47,44,Sales,Developer
+Jacqueline Mccoy,Yes,44,15,4,3,11505,13,23,27,R&D,Analyst
+Lauren Green,No,55,28,3,2,11737,14,24,20,R&D,Analyst
+Alison Brown,Yes,48,18,4,3,12819,12,49,48,HR,Manager
+Jill Anderson,Yes,37,26,4,2,6199,12,19,18,R&D,Manager
+Sandra Rivera,Yes,22,28,3,4,11873,19,21,18,R&D,Developer
+Joel Jackson,Yes,33,9,2,1,13303,20,42,40,R&D,Developer
+Samantha Foster,Yes,35,14,5,3,14761,8,30,29,HR,Sales Executive
+Michael Thompson,Yes,33,3,5,2,12802,19,37,42,R&D,Sales Executive
+Cody Ramirez,No,41,20,4,1,15670,16,27,28,R&D,Analyst
+Amanda Harvey,No,30,14,5,2,5537,17,25,29,R&D,Analyst
+Edward Jenkins,Yes,37,10,4,1,11128,0,25,20,HR,Manager
+Amy Ramirez,Yes,52,16,2,4,17130,12,46,51,HR,Sales Executive
+Curtis Wilkerson,Yes,41,26,1,1,18175,30,46,45,HR,Sales Executive
+Lydia Pham,Yes,56,3,3,2,15955,14,30,30,R&D,Developer
+Virginia Casey,Yes,51,28,2,1,17826,18,18,21,HR,Developer
+Joshua Washington,No,31,17,4,4,7858,7,33,29,HR,Analyst
+Kathryn Price,Yes,48,20,1,4,7298,20,47,51,R&D,Manager
+Francis Robinson,No,27,20,4,2,19759,6,22,24,HR,Analyst
+Paula Brown,No,34,30,3,1,18115,29,27,30,HR,Sales Executive
+Kendra Wang DVM,No,35,20,5,1,16170,17,17,20,Sales,Analyst
+Ariel Sandoval,No,22,18,4,3,7244,28,19,14,Sales,Analyst
+Robert Stark,No,56,17,1,3,14405,10,26,29,R&D,Manager
+Zachary Robinson,Yes,38,27,4,1,19183,17,21,20,R&D,Manager
+Rebecca Kelly,Yes,30,18,4,4,12822,30,23,26,Sales,Sales Executive
+Sarah Thompson,Yes,24,10,1,1,14715,23,47,48,R&D,Sales Executive
+Renee Wolfe,Yes,30,1,5,3,3559,21,35,39,Sales,Analyst
+Alyssa Haynes,No,23,13,3,2,15818,12,44,41,HR,Manager
+Kristy Hart,No,28,1,4,4,18736,6,41,42,HR,Sales Executive
+William Keith,Yes,42,6,2,4,5182,24,38,35,R&D,Manager
+Eric Henry Jr.,Yes,32,14,5,4,14802,18,21,16,Sales,Manager
+Daniel Fox,Yes,24,23,1,1,14002,21,25,21,Sales,Manager
+Thomas Harris,No,47,14,5,2,7186,27,42,41,R&D,Manager
+Mitchell Sellers,No,32,11,5,1,8090,23,30,30,HR,Sales Executive
+Erica Johnson,No,55,5,1,2,3293,26,26,22,HR,Sales Executive
+Sylvia Schroeder,Yes,51,9,2,3,7492,0,20,16,Sales,Developer
+Shannon Yu,No,59,24,4,1,13815,29,32,36,R&D,Developer
+Tom Foster,No,47,12,4,3,11549,25,15,13,Sales,Manager
+Eric Taylor,Yes,31,2,1,1,9972,17,24,27,Sales,Manager
+Travis Conner,Yes,28,21,5,1,3524,2,20,24,Sales,Developer
+Marie Thompson,Yes,33,4,2,4,13691,30,34,39,Sales,Manager
+Melissa Mcfarland,No,22,30,2,1,4240,26,24,27,R&D,Developer
+Courtney Chapman,Yes,59,26,1,2,6273,13,41,39,R&D,Developer
+Eric Barker,Yes,48,18,3,4,9627,0,36,35,Sales,Developer
+Nicholas Rush,Yes,36,9,4,3,15193,3,20,22,Sales,Developer
+Jenna Gamble,Yes,51,17,1,1,12284,15,34,29,R&D,Sales Executive
+Amanda Guzman,No,44,12,2,1,5097,9,20,22,Sales,Manager
+Tracy Walker,Yes,52,1,1,3,15491,20,32,29,HR,Analyst
+Taylor Taylor,No,29,22,1,1,12203,2,41,46,HR,Developer
+Cynthia Haas,Yes,31,4,1,2,19991,17,35,35,R&D,Sales Executive
+Stephen Davis,No,44,27,4,3,10228,17,49,52,HR,Developer
+Margaret Tanner,No,55,14,4,2,14690,25,49,44,Sales,Manager
+Derek Wright,Yes,28,4,1,4,13740,20,49,48,Sales,Manager
+David Rodriguez,No,46,13,5,4,8463,6,32,31,Sales,Sales Executive
+James Oconnor,No,57,14,5,2,16365,29,31,36,Sales,Developer
+Stacey Snyder,Yes,47,22,1,4,8197,6,30,32,Sales,Developer
+Joshua Garcia,Yes,23,19,2,3,7033,17,37,41,R&D,Developer
+Sean Curtis,Yes,23,11,3,4,13401,22,40,38,Sales,Analyst
+Carla Jones,No,25,20,4,2,13712,14,24,23,HR,Analyst
+Elizabeth Flores,Yes,36,27,3,1,13002,1,27,31,HR,Manager
+Angela Jackson,No,29,29,5,3,17991,22,38,43,R&D,Analyst
+Nicholas Payne,Yes,36,30,1,3,4059,4,33,30,Sales,Analyst
+Anna Wheeler,Yes,55,15,4,2,13985,7,21,24,Sales,Sales Executive
+Karen Johnson,Yes,42,24,1,1,18898,14,42,43,Sales,Sales Executive
+Carmen Preston,Yes,37,19,3,3,14413,3,32,27,HR,Developer
+Brian Harris,Yes,44,3,1,3,10373,20,36,32,HR,Sales Executive
+Michael Bowen,Yes,45,28,3,2,5756,27,33,28,R&D,Manager
+Deborah Campbell,Yes,54,11,2,1,9867,0,33,35,Sales,Developer
+Anthony Armstrong,No,58,2,1,1,8127,7,17,19,R&D,Developer
+Brittany Ward,No,49,2,1,3,18832,7,15,10,Sales,Manager
+Edward Stanley,Yes,55,12,2,3,17768,10,36,35,Sales,Manager
+Christina Johnson,Yes,46,28,1,1,12134,29,40,37,R&D,Sales Executive
+Edgar Miller,Yes,42,1,3,1,10544,21,30,35,HR,Sales Executive
+Elizabeth Sanders,Yes,41,7,2,3,11038,9,28,30,HR,Sales Executive
